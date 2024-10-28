@@ -7,10 +7,10 @@ model_contributors: [
   {
     "name": "Sid K",
     "affiliation": "Guelph",
-    "email": "@uoguelph.ca"
+    "email": "ss@uoguelph.ca"
   }
 ]
-website_url: "lab"
+website_url: "lab.com"
 license: "CC-BY-4.0"
 designated_model: true
 methods: "No"
