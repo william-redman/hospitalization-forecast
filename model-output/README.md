@@ -4,9 +4,9 @@ This folder contains subdirectories for each model, which hold the submitted mod
 
 # Data Submission Instructions
 
-Submit all forecasts directly to the [model-output/](./) folder by creating a pull request. This process ensures that automatic data validation checks are performed.
+Submit all forecasts directly to the [model-output/](./) folder by creating a pull request after forking the repository and adding submissions. This process ensures that automatic data validation checks are performed.
 
-These instructions cover details on [data formatting](#Data-formatting) and [forecast validation](#Forecast-validation), which you can perform before submitting the pull request. Additionally, [metadata](https://github.com/ai4castinghub/pho-hospitalization-forecast/blob/main/model-metadata/README.md) required for each model should be provided in the model-metadata folder prior to or with any forecast submissions.
+These instructions cover details on [data formatting](#Data-formatting) and [forecast validation](#Forecast-validation), which you can perform before submitting the pull request. Additionally, [metadata](https://github.com/ai4castinghub/hospitalization-forecast/blob/main/model-metadata/README.md) required for each model should be provided in the model-metadata folder prior to or with any forecast submissions.
 
 **Table of Contents**:
 - [What is a forecast](#What-is-a-forecast)
@@ -22,9 +22,9 @@ Forecasts are quantitative predictions about data to be observed in the future. 
 
 ## Target Data
 
-This project focuses on hospital bed occupancy data for COVID-19, Influenza, and RSV, as reported in the [Ontario Respiratory Virus Tool](https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Respiratory-Virus-Tool). This data serves as the target ("gold standard") for hospital forecasts. Further details can be found in the [target-data folder README](../target-data/README.md).
+This project focuses on hospital bed occupancy data for COVID-19, Influenza, and RSV, as reported in the [Ontario Respiratory Virus Tool](https://www.publichealthontario.ca/en/Data-and-Analysis/Infectious-Disease/Respiratory-Virus-Tool). Further details regarding the target-data can be found in the [target-data folder README](../target-data/README.md).
 
- Teams are encouraged to submit predictions for all forecast horizons, but it is not mandatory to cover every time period or location. Similarly, while teams are encouraged to forecast for all three targets, submitting predictions for all of them is not required. Predictions for the previous week's hospital admissions (horizon -1) are optional and will not be scored in summary evaluations but may assist with calibration.
+Teams are encouraged to submit predictions for all forecast horizons, but it is not mandatory to cover every time period or location. Similarly, while teams are encouraged to forecast for all three targets, submitting predictions for all of them is not required. Predictions for the previous week's hospital admissions (horizon -1) are optional and will not be scored in summary evaluations.
 
 ## Data Formatting
 
@@ -34,7 +34,7 @@ Automatic checks validate the filename and contents of forecast files to ensure 
 
 Each model submitting forecasts will have a unique subdirectory in the [model-output/](model-output/) directory. The subdirectory should be named as follows:
 
-    team_-model
+    team-model
 
 Where:
 - `team` is the team name
@@ -48,7 +48,7 @@ The metadata file for each model must follow this naming convention and be place
 
     team-model.yml
 
-For more details, see the [model-metadata README](https://github.com/ai4castinghub/pho-hospitalization-forecast/blob/main/model-metadata/README.md).
+For more details, see the [model-metadata README](https://github.com/ai4castinghub/hospitalization-forecast/blob/main/model-metadata/README.md).
 
 ### Forecasts
 
@@ -80,7 +80,7 @@ The forecast file should be a CSV with the following columns:
 
 No additional columns are allowed.
 
-Each row in the file represents a quantile or rate-trend prediction for a specific location, date, and horizon.
+Each row in the file represents a quantile prediction for a specific location, date, and horizon.
 
 ### `reference_date`
 
@@ -89,13 +89,13 @@ This date (in `YYYY-MM-DD` format) indicates when the forecast is made. It shoul
 ### `target`
 
 This column must contain one of the following target strings:
-- `wk inc flu hosp`
-- `wk inc rsv hosp`
-- `wk inc covid hosp`
+- `wk inc flu hosp` (Influenza Hospital Bed Occupancy Count)
+- `wk inc rsv hosp` (RSV Hospital Bed Occupancy Count)
+- `wk inc covid hosp` (COVID-19 Hospital Bed Occupancy Count)
 
 ### `horizon`
 
-Indicates the number of weeks between the `reference_date` and the `target_end_date`. A horizon of `0` represents a nowcast, while a horizon of `1` represents a forecast for the following week.
+Indicates the number of weeks between the `reference_date` and the `target_end_date`. A horizon of `0` represents a nowcast, while a horizon of `1` represents a forecast for the following week. Submissions are expected to provide forecasts for the end of the reference week (horizon `0`) and the subsequent three weeks (horizon `1`,`2` and `3`) and may also choose to submit a hindcast for a week before (horizon `-1`).
 
 ### `target_end_date`
 
@@ -103,11 +103,14 @@ The last date of the forecast target’s week, formatted as `YYYY-MM-DD`. It is 
 
 ### `location`
 
-This should match one of the "OH_Name" in the [location information file](../auxiliary-data/phu_region_mapping.csv).
+This should match one of the "OH_Name" in the [location information file](../auxiliary-data/phu_region_mapping.csv). 
+The regions of interests are: 
+* Province: `Ontario`
+* Public Health Regions: `North East`, `West`, `East`, `Central`, `North West` and `Toronto`
 
 ### `output_type`
 
-Currently, this column should be set to "quantile," representing quantile forecasts for hospital bed occupancy.
+This column should be set to `quantile`, representing probabilistic quantile forecasts for hospital bed occupancy.
 
     0.###
 
@@ -118,12 +121,14 @@ For quantile forecasts, this column specifies the quantile probability level, fo
 
 Teams must provide the following 7 quantiles:
 
-0.025, 0.1, 0.25, 0.5, 0.75, 0.9 and 0.975
+`0.025`, `0.1`, `0.25`, `0.5`, `0.75`, `0.9` and `0.975`
 
 
 ### `value`
 
 Values in the `value` column are non-negative numbers indicating the "quantile" prediction for this row. For a "quantile" prediction, `value` is the inverse of the cumulative distribution function (CDF) for the target, location, and quantile associated with that row. For example, the 2.5 and 97.5 quantiles for a given target and location should capture 95% of the predicted values and correspond to the central 95% Prediction Interval. 
+
+
 
 ### Example tables
 
@@ -150,13 +155,13 @@ To ensure proper data formatting, pull requests for new data in
 
 When a pull request is submitted, the data are validated through [Github
 Actions](https://docs.github.com/en/actions) which runs the tests to validate the requirements above. Please
-[let us know](https://github.com/ai4castinghub/pho-hospitalization-forecast/issues) if you are facing issues while running the tests.
+[let us know](https://github.com/ai4castinghub/hospitalization-forecast/issues) if you are facing issues while running the tests.
 
 ### Local forecast validation
 
 Optionally, you may validate a forecast file locally before submitting it to the hub in a pull request. Note that this is not required, since the validations will also run on the pull request. To run the validations locally, follow these steps:
 
-1. Create a fork of the `pho-hospitalization-forecast` repository and then clone the fork to your computer.
+1. Create a fork of the `hospitalization-forecast` repository and then clone the fork to your computer.
 2. Create a draft of the model submission file for your model and place it in the `model-output/<your model id>` folder of this clone.
 3. Install the hubValidations package for R by running the following command from within an R session:
 ``` r
@@ -219,7 +224,7 @@ The validation checks produced some failures/errors reported above.
 
 ## Policy on late or updated submissions 
 
-In order to ensure that forecasting is done in real-time, all forecasts are required to be submitted to this repository by 11PM ET on Wednesdays each week. We do not accept late forecasts.
+In order to ensure that forecasting is done in real-time, all forecasts are required to be submitted to this repository by 11PM America/Toronto on Tuesdays each week. We do not accept late forecasts.
 
 ## Evaluation criteria
-Forecasts will be evaluated using a variety of metrics, including weighted interval score (WIS) and its components and prediction interval coverage. The CMU [Delphi group's Forecast Evaluation Dashboard](https://delphi.cmu.edu/forecast-eval/) and the COVID-19 Forecast Hub periodic [Forecast Evaluation Reports](https://covid19forecasthub.org/eval-reports/) provide examples of evaluations using these criteria.
+Forecasts will be evaluated using `Weighted Interval Score (WIS)`, `Absolute Error (AE)` and `Mean Squared Error (MSE)`. The CMU [Delphi group's Forecast Evaluation Dashboard](https://delphi.cmu.edu/forecast-eval/) and the COVID-19 Forecast Hub periodic [Forecast Evaluation Reports](https://covid19forecasthub.org/eval-reports/) provide examples of evaluations using these criteria.
