@@ -1,0 +1,30 @@
+team_name: "University of Guelph Dynamics Training Lab"
+team_abbr: "UGuelph"
+model_name: "Composite Curve"
+model_abbr: "CompositeCurve"
+model_version: "1.0"
+model_contributors: [
+  {
+    "name": "Edward Thommes",
+    "affiliation": "Sanofi/University of Guelph",
+    "email": "ethommes@uoguelph.ca"
+  },
+  {
+    "name": "Christopher van Bommel",
+    "affiliation": "University of Guelph",
+    "email": "cvanbomm@uoguelph.ca"
+  },
+  {
+    "name": "Monica Cojocaru",
+    "affiliation": "University of Guelph",
+    "email": "mcojocar@uoguelph.ca"
+  }
+]
+website_url: "https://sites.google.com/site/mgcojocarumath/networks-and-dynamics-lab"
+license: "CC-BY-4.0"
+designated_model: true
+methods: "Composite Curve"
+data_inputs: "target data"
+methods_long: ""
+ensemble_of_models: True
+ensemble_of_hub_models: True

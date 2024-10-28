@@ -1,0 +1,43 @@
+reference_date,target,horizon,location,target_end_date,output_type,output_type_id,value
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.025,731
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.1,741
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.25,787
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.5,790
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.75,849
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.9,900
+21-09-2024,wk inc covid hosp,-1,Ontario,14-09-2024,quantile,0.975,1036
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.025,731
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.1,741
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.25,787
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.5,790
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.75,849
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.9,900
+21-09-2024,wk inc covid hosp,0,Ontario,21-09-2024,quantile,0.975,1036
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.025,731
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.1,741
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.25,787
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.5,790
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.75,849
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.9,900
+21-09-2024,wk inc covid hosp,1,Ontario,28-09-2024,quantile,0.975,1036
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.025,731
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.1,741
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.25,787
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.5,790
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.75,849
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.9,900
+21-09-2024,wk inc covid hosp,2,Ontario,05-10-2024,quantile,0.975,1036
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.025,731
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.1,741
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.25,787
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.5,790
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.75,849
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.9,900
+21-09-2024,wk inc covid hosp,3,Ontario,12-10-2024,quantile,0.975,1036
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

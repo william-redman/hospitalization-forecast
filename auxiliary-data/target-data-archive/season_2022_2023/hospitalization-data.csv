@@ -1,0 +1,372 @@
+"time","geo_value","geo_type","covid","flu","rsv"
+2022-08-27,"Central","OH Region",254,NA,NA
+2022-08-27,"East","OH Region",238,NA,NA
+2022-08-27,"North East","OH Region",105,NA,NA
+2022-08-27,"North West","OH Region",47,NA,NA
+2022-08-27,"Ontario","Province",1318,NA,NA
+2022-08-27,"Toronto","OH Region",257,NA,NA
+2022-08-27,"West","OH Region",430,NA,NA
+2022-09-03,"Central","OH Region",241,NA,NA
+2022-09-03,"East","OH Region",238,NA,NA
+2022-09-03,"North East","OH Region",97,NA,NA
+2022-09-03,"North West","OH Region",58,NA,NA
+2022-09-03,"Ontario","Province",1237,NA,NA
+2022-09-03,"Toronto","OH Region",190,NA,NA
+2022-09-03,"West","OH Region",426,NA,NA
+2022-09-10,"Central","OH Region",255,NA,NA
+2022-09-10,"East","OH Region",242,NA,NA
+2022-09-10,"North East","OH Region",99,NA,NA
+2022-09-10,"North West","OH Region",76,NA,NA
+2022-09-10,"Ontario","Province",1253,NA,NA
+2022-09-10,"Toronto","OH Region",205,NA,NA
+2022-09-10,"West","OH Region",392,NA,NA
+2022-09-17,"Central","OH Region",222,NA,NA
+2022-09-17,"East","OH Region",260,NA,NA
+2022-09-17,"North East","OH Region",82,NA,NA
+2022-09-17,"North West","OH Region",52,NA,NA
+2022-09-17,"Ontario","Province",1164,NA,NA
+2022-09-17,"Toronto","OH Region",207,NA,NA
+2022-09-17,"West","OH Region",353,NA,NA
+2022-09-24,"Central","OH Region",230,NA,NA
+2022-09-24,"East","OH Region",288,NA,NA
+2022-09-24,"North East","OH Region",99,NA,NA
+2022-09-24,"North West","OH Region",31,NA,NA
+2022-09-24,"Ontario","Province",1179,NA,NA
+2022-09-24,"Toronto","OH Region",198,NA,NA
+2022-09-24,"West","OH Region",351,NA,NA
+2022-10-01,"Central","OH Region",277,NA,NA
+2022-10-01,"East","OH Region",322,NA,NA
+2022-10-01,"North East","OH Region",109,NA,NA
+2022-10-01,"North West","OH Region",54,NA,NA
+2022-10-01,"Ontario","Province",1306,NA,NA
+2022-10-01,"Toronto","OH Region",203,NA,NA
+2022-10-01,"West","OH Region",354,NA,NA
+2022-10-08,"Central","OH Region",313,NA,NA
+2022-10-08,"East","OH Region",327,NA,NA
+2022-10-08,"North East","OH Region",140,NA,NA
+2022-10-08,"North West","OH Region",76,NA,NA
+2022-10-08,"Ontario","Province",1492,NA,NA
+2022-10-08,"Toronto","OH Region",248,NA,NA
+2022-10-08,"West","OH Region",400,NA,NA
+2022-10-15,"Central","OH Region",344,NA,NA
+2022-10-15,"East","OH Region",363,NA,NA
+2022-10-15,"North East","OH Region",164,NA,NA
+2022-10-15,"North West","OH Region",66,NA,NA
+2022-10-15,"Ontario","Province",1686,NA,NA
+2022-10-15,"Toronto","OH Region",315,NA,NA
+2022-10-15,"West","OH Region",448,NA,NA
+2022-10-22,"Central","OH Region",355,NA,NA
+2022-10-22,"East","OH Region",380,NA,NA
+2022-10-22,"North East","OH Region",169,NA,NA
+2022-10-22,"North West","OH Region",71,NA,NA
+2022-10-22,"Ontario","Province",1839,NA,NA
+2022-10-22,"Toronto","OH Region",374,NA,NA
+2022-10-22,"West","OH Region",504,NA,NA
+2022-10-29,"Central","OH Region",371,NA,NA
+2022-10-29,"East","OH Region",378,NA,NA
+2022-10-29,"North East","OH Region",151,NA,NA
+2022-10-29,"North West","OH Region",60,NA,NA
+2022-10-29,"Ontario","Province",1928,NA,NA
+2022-10-29,"Toronto","OH Region",388,NA,NA
+2022-10-29,"West","OH Region",592,NA,NA
+2022-11-05,"Central","OH Region",355,NA,NA
+2022-11-05,"East","OH Region",334,NA,NA
+2022-11-05,"North East","OH Region",100,NA,NA
+2022-11-05,"North West","OH Region",52,NA,NA
+2022-11-05,"Ontario","Province",1832,NA,NA
+2022-11-05,"Toronto","OH Region",405,NA,NA
+2022-11-05,"West","OH Region",599,NA,NA
+2022-11-12,"Central","OH Region",295,NA,NA
+2022-11-12,"East","OH Region",309,NA,NA
+2022-11-12,"North East","OH Region",90,NA,NA
+2022-11-12,"North West","OH Region",48,NA,NA
+2022-11-12,"Ontario","Province",1635,NA,NA
+2022-11-12,"Toronto","OH Region",359,NA,NA
+2022-11-12,"West","OH Region",547,NA,NA
+2022-11-19,"Central","OH Region",268,NA,NA
+2022-11-19,"East","OH Region",249,NA,NA
+2022-11-19,"North East","OH Region",67,NA,NA
+2022-11-19,"North West","OH Region",53,NA,NA
+2022-11-19,"Ontario","Province",1389,NA,NA
+2022-11-19,"Toronto","OH Region",305,NA,NA
+2022-11-19,"West","OH Region",459,NA,NA
+2022-11-26,"Central","OH Region",253,NA,NA
+2022-11-26,"East","OH Region",190,NA,NA
+2022-11-26,"North East","OH Region",69,NA,NA
+2022-11-26,"North West","OH Region",47,NA,NA
+2022-11-26,"Ontario","Province",1233,NA,NA
+2022-11-26,"Toronto","OH Region",293,NA,NA
+2022-11-26,"West","OH Region",396,NA,NA
+2022-12-03,"Central","OH Region",242,116,52
+2022-12-03,"East","OH Region",207,90,69
+2022-12-03,"North East","OH Region",62,40,7
+2022-12-03,"North West","OH Region",30,12,9
+2022-12-03,"Ontario","Province",1195,540,321
+2022-12-03,"Toronto","OH Region",364,111,69
+2022-12-03,"West","OH Region",305,183,127
+2022-12-10,"Central","OH Region",255,86,63
+2022-12-10,"East","OH Region",215,96,63
+2022-12-10,"North East","OH Region",50,35,11
+2022-12-10,"North West","OH Region",20,9,2
+2022-12-10,"Ontario","Province",1176,492,335
+2022-12-10,"Toronto","OH Region",352,103,62
+2022-12-10,"West","OH Region",298,176,146
+2022-12-17,"Central","OH Region",284,68,59
+2022-12-17,"East","OH Region",227,85,71
+2022-12-17,"North East","OH Region",64,43,14
+2022-12-17,"North West","OH Region",27,6,9
+2022-12-17,"Ontario","Province",1208,424,342
+2022-12-17,"Toronto","OH Region",333,78,62
+2022-12-17,"West","OH Region",287,159,140
+2022-12-24,"Central","OH Region",255,46,47
+2022-12-24,"East","OH Region",208,60,72
+2022-12-24,"North East","OH Region",76,38,20
+2022-12-24,"North West","OH Region",32,4,11
+2022-12-24,"Ontario","Province",1212,315,324
+2022-12-24,"Toronto","OH Region",327,61,58
+2022-12-24,"West","OH Region",330,120,128
+2022-12-31,"Central","OH Region",243,40,49
+2022-12-31,"East","OH Region",212,38,77
+2022-12-31,"North East","OH Region",72,19,18
+2022-12-31,"North West","OH Region",33,2,13
+2022-12-31,"Ontario","Province",1282,224,334
+2022-12-31,"Toronto","OH Region",343,38,55
+2022-12-31,"West","OH Region",394,99,133
+2023-01-07,"Central","OH Region",289,35,54
+2023-01-07,"East","OH Region",217,41,75
+2023-01-07,"North East","OH Region",95,14,17
+2023-01-07,"North West","OH Region",25,2,8
+2023-01-07,"Ontario","Province",1485,200,333
+2023-01-07,"Toronto","OH Region",423,31,54
+2023-01-07,"West","OH Region",448,91,135
+2023-01-14,"Central","OH Region",290,25,52
+2023-01-14,"East","OH Region",221,25,48
+2023-01-14,"North East","OH Region",80,13,21
+2023-01-14,"North West","OH Region",59,2,9
+2023-01-14,"Ontario","Province",1479,136,285
+2023-01-14,"Toronto","OH Region",384,18,46
+2023-01-14,"West","OH Region",462,68,123
+2023-01-21,"Central","OH Region",263,16,37
+2023-01-21,"East","OH Region",219,19,40
+2023-01-21,"North East","OH Region",61,5,21
+2023-01-21,"North West","OH Region",60,0,10
+2023-01-21,"Ontario","Province",1265,89,220
+2023-01-21,"Toronto","OH Region",301,12,32
+2023-01-21,"West","OH Region",378,49,94
+2023-01-28,"Central","OH Region",234,13,39
+2023-01-28,"East","OH Region",222,12,36
+2023-01-28,"North East","OH Region",66,2,11
+2023-01-28,"North West","OH Region",40,0,9
+2023-01-28,"Ontario","Province",1181,71,192
+2023-01-28,"Toronto","OH Region",277,12,23
+2023-01-28,"West","OH Region",358,40,87
+2023-02-04,"Central","OH Region",237,9,31
+2023-02-04,"East","OH Region",199,12,28
+2023-02-04,"North East","OH Region",77,1,9
+2023-02-04,"North West","OH Region",34,0,6
+2023-02-04,"Ontario","Province",1109,58,156
+2023-02-04,"Toronto","OH Region",256,12,25
+2023-02-04,"West","OH Region",322,36,68
+2023-02-11,"Central","OH Region",235,8,18
+2023-02-11,"East","OH Region",204,8,18
+2023-02-11,"North East","OH Region",84,3,11
+2023-02-11,"North West","OH Region",25,0,5
+2023-02-11,"Ontario","Province",1038,52,119
+2023-02-11,"Toronto","OH Region",220,7,23
+2023-02-11,"West","OH Region",282,37,57
+2023-02-18,"Central","OH Region",234,9,9
+2023-02-18,"East","OH Region",196,10,21
+2023-02-18,"North East","OH Region",90,2,8
+2023-02-18,"North West","OH Region",22,0,3
+2023-02-18,"Ontario","Province",1005,42,99
+2023-02-18,"Toronto","OH Region",190,3,19
+2023-02-18,"West","OH Region",289,27,51
+2023-02-25,"Central","OH Region",198,8,13
+2023-02-25,"East","OH Region",221,7,17
+2023-02-25,"North East","OH Region",92,2,6
+2023-02-25,"North West","OH Region",21,0,1
+2023-02-25,"Ontario","Province",992,36,79
+2023-02-25,"Toronto","OH Region",174,4,15
+2023-02-25,"West","OH Region",302,22,38
+2023-03-04,"Central","OH Region",171,7,10
+2023-03-04,"East","OH Region",228,9,16
+2023-03-04,"North East","OH Region",89,0,11
+2023-03-04,"North West","OH Region",22,5,3
+2023-03-04,"Ontario","Province",1008,45,82
+2023-03-04,"Toronto","OH Region",188,7,14
+2023-03-04,"West","OH Region",324,25,39
+2023-03-11,"Central","OH Region",162,6,12
+2023-03-11,"East","OH Region",215,7,13
+2023-03-11,"North East","OH Region",66,1,6
+2023-03-11,"North West","OH Region",28,0,4
+2023-03-11,"Ontario","Province",928,47,77
+2023-03-11,"Toronto","OH Region",183,15,12
+2023-03-11,"West","OH Region",289,28,39
+2023-03-18,"Central","OH Region",143,7,7
+2023-03-18,"East","OH Region",189,7,10
+2023-03-18,"North East","OH Region",60,2,5
+2023-03-18,"North West","OH Region",23,0,2
+2023-03-18,"Ontario","Province",833,47,56
+2023-03-18,"Toronto","OH Region",176,16,11
+2023-03-18,"West","OH Region",258,24,34
+2023-03-25,"Central","OH Region",148,10,7
+2023-03-25,"East","OH Region",178,5,8
+2023-03-25,"North East","OH Region",49,4,3
+2023-03-25,"North West","OH Region",28,0,1
+2023-03-25,"Ontario","Province",797,44,46
+2023-03-25,"Toronto","OH Region",159,11,8
+2023-03-25,"West","OH Region",249,20,28
+2023-04-01,"Central","OH Region",148,10,9
+2023-04-01,"East","OH Region",157,4,7
+2023-04-01,"North East","OH Region",39,0,3
+2023-04-01,"North West","OH Region",22,0,1
+2023-04-01,"Ontario","Province",749,38,44
+2023-04-01,"Toronto","OH Region",141,10,7
+2023-04-01,"West","OH Region",258,20,25
+2023-04-08,"Central","OH Region",154,13,4
+2023-04-08,"East","OH Region",158,3,6
+2023-04-08,"North East","OH Region",41,1,3
+2023-04-08,"North West","OH Region",20,0,1
+2023-04-08,"Ontario","Province",768,41,33
+2023-04-08,"Toronto","OH Region",146,7,5
+2023-04-08,"West","OH Region",263,24,24
+2023-04-15,"Central","OH Region",165,12,2
+2023-04-15,"East","OH Region",132,4,5
+2023-04-15,"North East","OH Region",36,1,4
+2023-04-15,"North West","OH Region",15,0,0
+2023-04-15,"Ontario","Province",746,40,33
+2023-04-15,"Toronto","OH Region",184,9,7
+2023-04-15,"West","OH Region",226,21,21
+2023-04-22,"Central","OH Region",171,8,7
+2023-04-22,"East","OH Region",126,6,4
+2023-04-22,"North East","OH Region",33,0,3
+2023-04-22,"North West","OH Region",15,0,0
+2023-04-22,"Ontario","Province",693,39,29
+2023-04-22,"Toronto","OH Region",173,9,7
+2023-04-22,"West","OH Region",187,23,18
+2023-04-29,"Central","OH Region",136,10,4
+2023-04-29,"East","OH Region",115,3,2
+2023-04-29,"North East","OH Region",31,0,3
+2023-04-29,"North West","OH Region",16,0,0
+2023-04-29,"Ontario","Province",575,36,23
+2023-04-29,"Toronto","OH Region",140,12,6
+2023-04-29,"West","OH Region",151,14,15
+2023-05-06,"Central","OH Region",104,9,4
+2023-05-06,"East","OH Region",94,3,5
+2023-05-06,"North East","OH Region",34,0,2
+2023-05-06,"North West","OH Region",14,0,0
+2023-05-06,"Ontario","Province",481,40,27
+2023-05-06,"Toronto","OH Region",113,13,8
+2023-05-06,"West","OH Region",135,22,15
+2023-05-13,"Central","OH Region",105,6,4
+2023-05-13,"East","OH Region",73,3,3
+2023-05-13,"North East","OH Region",34,0,1
+2023-05-13,"North West","OH Region",10,0,0
+2023-05-13,"Ontario","Province",449,34,24
+2023-05-13,"Toronto","OH Region",108,13,5
+2023-05-13,"West","OH Region",133,17,15
+2023-05-20,"Central","OH Region",122,8,4
+2023-05-20,"East","OH Region",59,5,1
+2023-05-20,"North East","OH Region",28,1,1
+2023-05-20,"North West","OH Region",15,0,0
+2023-05-20,"Ontario","Province",430,33,25
+2023-05-20,"Toronto","OH Region",103,9,8
+2023-05-20,"West","OH Region",118,15,15
+2023-05-27,"Central","OH Region",101,7,5
+2023-05-27,"East","OH Region",58,3,1
+2023-05-27,"North East","OH Region",21,2,2
+2023-05-27,"North West","OH Region",9,0,0
+2023-05-27,"Ontario","Province",407,36,24
+2023-05-27,"Toronto","OH Region",101,7,3
+2023-05-27,"West","OH Region",131,23,17
+2023-06-03,"Central","OH Region",92,7,3
+2023-06-03,"East","OH Region",74,3,2
+2023-06-03,"North East","OH Region",26,0,1
+2023-06-03,"North West","OH Region",7,0,0
+2023-06-03,"Ontario","Province",443,30,17
+2023-06-03,"Toronto","OH Region",119,9,1
+2023-06-03,"West","OH Region",141,17,15
+2023-06-10,"Central","OH Region",83,7,1
+2023-06-10,"East","OH Region",62,0,2
+2023-06-10,"North East","OH Region",18,0,1
+2023-06-10,"North West","OH Region",8,0,0
+2023-06-10,"Ontario","Province",363,28,15
+2023-06-10,"Toronto","OH Region",90,8,1
+2023-06-10,"West","OH Region",119,17,14
+2023-06-17,"Central","OH Region",70,6,2
+2023-06-17,"East","OH Region",45,1,2
+2023-06-17,"North East","OH Region",16,0,1
+2023-06-17,"North West","OH Region",8,0,0
+2023-06-17,"Ontario","Province",283,23,19
+2023-06-17,"Toronto","OH Region",64,5,1
+2023-06-17,"West","OH Region",94,15,17
+2023-06-24,"Central","OH Region",44,5,2
+2023-06-24,"East","OH Region",52,1,2
+2023-06-24,"North East","OH Region",10,0,1
+2023-06-24,"North West","OH Region",5,0,0
+2023-06-24,"Ontario","Province",239,22,19
+2023-06-24,"Toronto","OH Region",61,4,2
+2023-06-24,"West","OH Region",80,16,15
+2023-07-01,"Central","OH Region",37,5,1
+2023-07-01,"East","OH Region",31,2,2
+2023-07-01,"North East","OH Region",13,0,1
+2023-07-01,"North West","OH Region",10,0,0
+2023-07-01,"Ontario","Province",215,19,12
+2023-07-01,"Toronto","OH Region",61,4,1
+2023-07-01,"West","OH Region",74,13,11
+2023-07-08,"Central","OH Region",38,2,1
+2023-07-08,"East","OH Region",31,1,1
+2023-07-08,"North East","OH Region",9,0,1
+2023-07-08,"North West","OH Region",8,0,0
+2023-07-08,"Ontario","Province",203,17,14
+2023-07-08,"Toronto","OH Region",54,2,1
+2023-07-08,"West","OH Region",75,15,13
+2023-07-15,"Central","OH Region",39,2,2
+2023-07-15,"East","OH Region",35,2,2
+2023-07-15,"North East","OH Region",11,0,1
+2023-07-15,"North West","OH Region",11,0,0
+2023-07-15,"Ontario","Province",218,17,14
+2023-07-15,"Toronto","OH Region",49,4,1
+2023-07-15,"West","OH Region",85,11,13
+2023-07-22,"Central","OH Region",40,1,4
+2023-07-22,"East","OH Region",37,2,3
+2023-07-22,"North East","OH Region",12,0,1
+2023-07-22,"North West","OH Region",22,0,0
+2023-07-22,"Ontario","Province",228,14,17
+2023-07-22,"Toronto","OH Region",52,3,3
+2023-07-22,"West","OH Region",79,12,10
+2023-07-29,"Central","OH Region",45,1,3
+2023-07-29,"East","OH Region",27,1,3
+2023-07-29,"North East","OH Region",15,0,0
+2023-07-29,"North West","OH Region",16,0,0
+2023-07-29,"Ontario","Province",247,15,16
+2023-07-29,"Toronto","OH Region",59,4,1
+2023-07-29,"West","OH Region",96,11,14
+2023-08-05,"Central","OH Region",49,4,2
+2023-08-05,"East","OH Region",31,2,4
+2023-08-05,"North East","OH Region",14,0,0
+2023-08-05,"North West","OH Region",8,0,0
+2023-08-05,"Ontario","Province",240,12,19
+2023-08-05,"Toronto","OH Region",65,3,2
+2023-08-05,"West","OH Region",85,9,14
+2023-08-12,"Central","OH Region",46,3,4
+2023-08-12,"East","OH Region",49,2,5
+2023-08-12,"North East","OH Region",24,0,0
+2023-08-12,"North West","OH Region",4,0,0
+2023-08-12,"Ontario","Province",252,14,18
+2023-08-12,"Toronto","OH Region",69,6,1
+2023-08-12,"West","OH Region",77,6,13
+2023-08-19,"Central","OH Region",61,2,1
+2023-08-19,"East","OH Region",90,1,5
+2023-08-19,"North East","OH Region",26,0,0
+2023-08-19,"North West","OH Region",4,0,0
+2023-08-19,"Ontario","Province",328,12,13
+2023-08-19,"Toronto","OH Region",66,3,1
+2023-08-19,"West","OH Region",96,7,10
+2023-08-26,"Central","OH Region",89,6,3
+2023-08-26,"East","OH Region",123,1,3
+2023-08-26,"North East","OH Region",28,0,0
+2023-08-26,"North West","OH Region",10,0,0
+2023-08-26,"Ontario","Province",438,17,15
+2023-08-26,"Toronto","OH Region",75,3,2
+2023-08-26,"West","OH Region",124,10,11

@@ -1,0 +1,20 @@
+{
+    "schema_version": "https://raw.githubusercontent.com/Infectious-Disease-Modeling-Hubs/schemas/main/v3.0.1/admin-schema.json",
+    "name": "AI4Casting Hub",
+    "maintainer": "AI4Casting Hub Admin",
+    "contact": {
+        "name": "Siddhesh S. Kadam",
+        "email": "skadam@uoguelph.ca"
+    },
+    "repository": {
+        "host": "github",
+        "owner": "AI4Casting Hub",
+        "repository": "pho-hospitalization-forecast"
+    },
+    "file_format": ["csv"],
+    "timezone": "America/Toronto",
+    "model_output_dir": "model-output",
+    "cloud": {
+        "enabled": false
+    }
+}
