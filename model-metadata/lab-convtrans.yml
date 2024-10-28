@@ -1,0 +1,20 @@
+team_name: "Training Lab"
+team_abbr: "lab"
+model_name: "convtrans"
+model_abbr: "convtrans"
+model_version: "1.0"
+model_contributors: [
+  {
+    "name": "Sid K",
+    "affiliation": "Guelph",
+    "email": "@uoguelph.ca"
+  }
+]
+website_url: "lab"
+license: "CC-BY-4.0"
+designated_model: true
+methods: "No"
+data_inputs: "hospitalization"
+methods_long: ""
+ensemble_of_models: True
+ensemble_of_hub_models: True
