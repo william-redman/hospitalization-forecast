@@ -10,7 +10,7 @@ model_contributors: [
     "email": "ss@uoguelph.ca"
   }
 ]
-website_url: "lab.com"
+website_url: "https://sites.google.com/site/mgcojocarumath/networks-and-dynamics-lab"
 license: "CC-BY-4.0"
 designated_model: true
 methods: "No"
