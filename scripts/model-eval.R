@@ -185,8 +185,15 @@ all_model_data <- lapply(model_directories, function(model_dir) {
   
   do.call(rbind, lapply(model_files, function(model_file) {
     model_data <- read_csv(model_file, show_col_types = FALSE) %>%
-      mutate(#across(c(output_type_id), as.numeric),  # Specify the columns to convert
-             model = model_name
+      mutate(model = model_name,
+             reference_date = if_else(is.na(as_date(dmy(reference_date))),
+                                      as_date(as.numeric(reference_date)),
+                                      as_date(dmy(reference_date))),
+             target_end_date = if_else(is.na(as_date(dmy(target_end_date))),
+                                       as_date(as.numeric(target_end_date)),
+                                       as_date(dmy(target_end_date)))
+             #reference_date = as.character(reference_date),
+             #target_end_date = as.character(target_end_date)
       )
     return(model_data)
   }))
