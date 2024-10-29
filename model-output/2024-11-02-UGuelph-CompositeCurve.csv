@@ -1,0 +1,246 @@
+"reference_date","target","horizon","target_end_date","location","output_type","output_type_id","value"
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.025,112.336181170395
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.025,95.163301664993
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.025,51.8623944404311
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.025,25.9311972202156
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.025,62.0881822634529
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.1,121.136001030918
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.1,114.779344019613
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.1,51.8623944404311
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.1,25.9311972202156
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.1,64.8279930505389
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.25,130.827279569854
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.25,120.028484135291
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.25,102.508479395402
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.25,94.1742052269748
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.25,85.7030464991983
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.5,137.785981119011
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.5,155.842513716668
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.5,140.327531367889
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.5,136.023307825378
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.5,129.326853975535
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.75,160.586763126474
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.75,172.166595299866
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.75,188.289449479933
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.75,180.408972098422
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.75,198.489933228442
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.9,196.708435139775
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.9,184.653542539265
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.9,198.574982657053
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.9,207.337475020114
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.9,220.764705882353
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Central","quantile",0.975,196.708435139775
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Central","quantile",0.975,192.149927531841
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Central","quantile",0.975,200.375489986334
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Central","quantile",0.975,225.279510998915
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Central","quantile",0.975,245.956681120826
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.025,43.2529407992704
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.025,21.6264703996352
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.025,54.066175999088
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.025,0
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.025,73.5950542575275
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.1,43.2529407992704
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.1,21.6264703996352
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.1,54.066175999088
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.1,0
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.1,95.7777112398196
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.25,43.2529407992704
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.25,21.6264703996352
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.25,54.066175999088
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.25,0
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.25,103.650197667632
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.5,43.2529407992704
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.5,21.6264703996352
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.5,54.066175999088
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.5,0
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.5,146.668331069796
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.75,138.457730307172
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.75,132.743904449596
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.75,115.683926232045
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.75,110.215454467393
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.75,164.688455882871
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.9,157.63912310454
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.9,146.778478025973
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.9,150.204813444494
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.9,152.097605059604
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.9,164.688455882871
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"East","quantile",0.975,157.63912310454
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"East","quantile",0.975,159.580828839459
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"East","quantile",0.975,172.791151312212
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"East","quantile",0.975,164.488938729208
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"East","quantile",0.975,170.005409937485
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.025,47.9707030657824
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.025,40.7875579450336
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.025,22.0135343308305
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.025,11.0067671654152
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.025,26.5865648980672
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.1,52.0127118751062
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.1,48.8382258538167
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.1,42.1313865076201
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.1,36.045340671148
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.1,33.9677718653346
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.25,54.4104552521124
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.25,53.5854689751888
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.25,50.952159585344
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.25,47.1575081260721
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.25,43.9085623792266
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.5,62.1391556897483
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.5,63.8798533553103
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.5,70.2820246668271
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.5,78.1279779111341
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.5,82.655366034111
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.75,70.3121392723505
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.75,69.769036008208
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.75,77.2939050985406
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.75,92.1135562744479
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.75,93.0005757052389
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.9,70.4033613445378
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.9,76.9964122599461
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.9,83.8175850617822
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.9,92.1135562744479
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.9,93.7058823529412
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North East","quantile",0.975,79.6399953403998
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North East","quantile",0.975,80.8901635384119
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North East","quantile",0.975,84.8905734740515
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North East","quantile",0.975,95.3684183388476
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North East","quantile",0.975,104.398879036897
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.025,9.61613762703573
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.025,7.22544086013087
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.025,9.15397046128786
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.025,3.63913547546811
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.025,8.96630072664536
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.1,17.4593109279222
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.1,16.1527777194522
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.1,13.2047200106119
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.1,11.9960908049344
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.1,10.4413193339422
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.25,19.0363233486178
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.25,18.0675799905059
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.25,17.5625685111495
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.25,15.2950935328701
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.25,13.1368264485861
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.5,20.6963787447712
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.5,19.9376353940198
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.5,18.4456416464891
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.5,19.11151630347
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.5,14.9612949649523
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.75,21.4962440597101
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.75,24.0312043909816
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.75,30.5732087227414
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.75,26.0489222301384
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.75,22.149705332019
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.9,23.1046635281713
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.9,30.2816080526052
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.9,30.5732087227414
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.9,26.7654382190663
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.9,25.0940228540847
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"North West","quantile",0.975,23.9499376637616
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"North West","quantile",0.975,30.2816080526052
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"North West","quantile",0.975,34.0082058293099
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"North West","quantile",0.975,31.9240792969776
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"North West","quantile",0.975,27.2124915444162
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.025,646.758248209463
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.025,559.745365835764
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.025,496.078102586245
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.025,430.020535322079
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.025,410.065599233806
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.1,646.758248209463
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.1,559.745365835764
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.1,517.309796584677
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.1,468.936979009218
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.1,410.065599233806
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.25,646.758248209463
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.25,559.745365835764
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.25,517.309796584677
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.25,468.936979009218
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.25,410.065599233806
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.5,722.083425330823
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.5,668.047731804586
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.5,555.412050679498
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.5,524.040288816969
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.5,471.058471405665
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.75,722.083425330823
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.75,668.047731804586
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.75,555.412050679498
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.75,544.390870185449
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.75,521.706972023129
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.9,827.244980255974
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.9,853.224500506054
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.9,737.142962844802
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.9,711.029333333333
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.9,704.056860194017
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Ontario","quantile",0.975,952.646774476088
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Ontario","quantile",0.975,973.973465661591
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Ontario","quantile",0.975,897.567421916532
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Ontario","quantile",0.975,1012.85343441323
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Ontario","quantile",0.975,1433.35837488758
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.025,101.805352006587
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.025,92.2000572767825
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.025,61.7267406685444
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.025,39.6293482930979
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.025,60.2120139166968
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.1,115.874439461883
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.1,108.150715434335
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.1,92.0865606485812
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.1,81.2874207207808
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.1,74.2453470086126
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.25,126.024579460409
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.25,115.439320092559
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.25,106.192649231215
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.25,92.8404596488923
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.25,84.0248747866476
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.5,135.786637511729
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.5,130.090134521487
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.5,128.575281868695
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.5,123.769819870091
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.5,111.620944158195
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.75,149.765907061049
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.75,157.074927051278
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.75,159.77639971289
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.75,166.161395585571
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.75,162.513671816929
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.9,165.923563718158
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.9,179.961780496092
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.9,185.498233215548
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.9,202.241967021198
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.9,228.764461231432
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"Toronto","quantile",0.975,178.245343851596
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"Toronto","quantile",0.975,197.736283401964
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"Toronto","quantile",0.975,204.77229648859
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"Toronto","quantile",0.975,221.064027264857
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"Toronto","quantile",0.975,255.152799718208
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.025,190.132474400257
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.025,172.022582225579
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.025,148.447591598706
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.025,122.368275163183
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.025,108.876508823551
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.1,212.005918410484
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.1,200.031026656365
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.1,156.52583314991
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.1,172.42142525602
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.1,108.876508823551
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.25,231.155354947501
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.25,227.641658633583
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.25,219.461485062786
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.25,202.984789901294
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.25,108.876508823551
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.5,251.313170472222
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.5,289.260190321112
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.5,311.086409958161
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.5,287.468941572176
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.5,150.262172284644
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.75,251.313170472222
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.75,291.80748189049
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.75,412.956785070192
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.75,387.649534320442
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.75,174.559399025827
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.9,260.952613376795
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.9,291.80748189049
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.9,412.956785070192
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.9,387.649534320442
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.9,253.281274805282
+2024-11-02,"wk inc covid hosp",-1,2024-10-26,"West","quantile",0.975,280.556628556366
+2024-11-02,"wk inc covid hosp",0,2024-11-02,"West","quantile",0.975,367.705240638778
+2024-11-02,"wk inc covid hosp",1,2024-11-09,"West","quantile",0.975,412.956785070192
+2024-11-02,"wk inc covid hosp",2,2024-11-16,"West","quantile",0.975,387.649534320442
+2024-11-02,"wk inc covid hosp",3,2024-11-23,"West","quantile",0.975,304.713134656743
