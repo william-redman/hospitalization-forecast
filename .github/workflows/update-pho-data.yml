@@ -1,9 +1,9 @@
 name: Update Target Data
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering
   schedule:
-    - cron: '0 21 * * THU'
+    - cron: '0 21 * * THU'  # Runs every Thursday at 21:00 UTC
 
 permissions:
   contents: write  # Explicitly grant write access
@@ -44,6 +44,6 @@ jobs:
       
       - name: Push changes with personal token
         env:
-          GITHUB_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}  # Ensure personal token is used for push
+          GITHUB_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: |
-          git push https://${{ secrets.PERSONAL_GITHUB_TOKEN }}@github.com/OWNER/REPO.git HEAD:main || echo "No changes to commit"
+          git push https://${{ secrets.PERSONAL_GITHUB_TOKEN }}@github.com/ai4castinghub/hospitalization-forecast.git HEAD:main || echo "No changes to commit"
