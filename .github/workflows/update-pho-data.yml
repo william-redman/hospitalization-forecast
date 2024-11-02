@@ -1,19 +1,19 @@
 name: Update Target Data
 
 on:
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
   schedule:
-    # Run every Thursday at 21:00 UTC
     - cron: '0 21 * * THU'
 
 permissions:
-  contents: write 
+  contents: write  # Explicitly grant write access
 
 jobs:
   update_target_data:
     runs-on: ubuntu-latest
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}  # Use the personal token
+
     steps:    
       - name: Check out code
         uses: actions/checkout@v3
@@ -41,4 +41,9 @@ jobs:
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git commit -am 'update target data' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+      
+      - name: Push changes with personal token
+        env:
+          GITHUB_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}  # Ensure personal token is used for push
+        run: |
+          git push https://${{ secrets.PERSONAL_GITHUB_TOKEN }}@github.com/OWNER/REPO.git HEAD:main || echo "No changes to commit"
