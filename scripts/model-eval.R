@@ -177,7 +177,16 @@ all_model_data <- lapply(list.dirs(model_output_dir, full.names = TRUE, recursiv
   do.call(rbind, lapply(model_files, function(file) {
     if (file.exists(file)) {
       read_csv(file, show_col_types = FALSE) %>%
-        mutate(model = model_name)
+        mutate(model = model_name,
+              reference_date = if_else(is.na(as_date(dmy(reference_date))),
+                                  as_date(as.numeric(reference_date)),
+                                  as_date(dmy(reference_date))),
+         target_end_date = if_else(is.na(as_date(dmy(target_end_date))),
+                                   as_date(as.numeric(target_end_date)),
+                                   as_date(dmy(target_end_date)))) %>%
+  # Drop rows where either reference_date or target_end_date is NA
+  filter(!is.na(reference_date), !is.na(target_end_date))
+              )
     } else {
       cat("File does not exist:", file, "\n")
       return(NULL)
