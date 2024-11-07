@@ -4,16 +4,16 @@ library(readr)
 library(MMWRweek)
 
 # Load and process dataset 
-df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization-data.csv') %>% #'hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv'
+df_hhs <- read_csv('target-data/season_2024_2025/hospitalization-data.csv') %>% #'hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv'
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
   arrange(date)
 
 # Define parameters hospitalization/
-model_output_dir <- "hospitalization/model-output" #"hospitalization/hospitalization-forecast/model-output"
+model_output_dir <- "model-output" #"hospitalization/hospitalization-forecast/model-output"
 model_names <- list.dirs(model_output_dir, full.names = FALSE, recursive = FALSE)
 current_reference_date <- floor_date(Sys.Date(), unit = "week") + days(6)
-start_reference_date <- as_date("2024-10-26")
+start_reference_date <- as_date("2024-10-19")
 all_ref_dates <- seq(start_reference_date, current_reference_date, by = "7 days")
 region_vector <- c("Ontario","North East", "West", "East","Central","North West","Toronto")
 target_vector <- c('wk inc covid hosp','wk inc flu hosp','wk inc rsv hosp')
@@ -21,76 +21,147 @@ target_vector <- c('wk inc covid hosp','wk inc flu hosp','wk inc rsv hosp')
 # Initialize results container
 WIS_all <- list()
 
-# Define WIS function for scoring
-WIS <- function(single_forecast, single_true) {
-  AE <- abs(single_true - median(single_forecast$value[single_forecast$output_type_id == 0.5]))
-  MSE <- AE^2
-  quantiles <- c(0.025, 0.1, 0.25)
+WIS <- function(single_forecast, model, date, forecast_date, region, tid, j) {
+  quantiles_vector <- c(0.025, 0.1, 0.25)
   
-  WIS <- AE / 2 + sum(sapply(quantiles, function(q) {
-    lower <- single_forecast$value[single_forecast$output_type_id == q]
-    upper <- single_forecast$value[single_forecast$output_type_id == 1 - q]
-    q * (upper - lower) + ifelse(single_true < lower, lower - single_true, 0) + ifelse(single_true > upper, single_true - upper, 0)
-  }, USE.NAMES = FALSE))
+  single_true <- df_hhs %>%
+    filter(time == as_date(forecast_date), geo_value == region) %>%
+    pull(covid)
   
-  WIS / (length(quantiles) + 0.5)
+  if (length(single_true) == 0) {
+    cat("No true value for region:", region, "on date:", forecast_date, "\n")
+    return(NULL)
+  }
+  
+  median_forecast <- single_forecast %>%
+    filter(output_type_id == 0.5) %>%
+    pull(value)
+  
+  # Check if median_forecast has a value
+  if (length(median_forecast) == 0) {
+    cat("No median forecast for region:", region, "on date:", forecast_date, "\n")
+    return(NULL)
+  }
+  
+  # Calculate error metrics
+  AE <- abs(single_true - median_forecast)
+  MSE <- (single_true - median_forecast)^2
+  WIS <- AE / 2
+  
+  for (quantile in quantiles_vector) {
+    lower <- single_forecast %>% filter(output_type_id == quantile) %>% pull(value)
+    upper <- single_forecast %>% filter(output_type_id == 1 - quantile) %>% pull(value)
+    
+    # Check if both lower and upper quantiles exist
+    if (length(lower) == 0 || length(upper) == 0) {
+      cat("Missing quantile data for region:", region, "quantile:", quantile, "\n")
+      next  # Move to the next quantile
+    }
+    
+    WIS <- WIS + (quantile * (upper - lower) + 
+                    (single_true < lower) * (lower - single_true) + 
+                    (single_true > upper) * (single_true - upper))
+  }
+  
+  WIS <- WIS / (length(quantiles_vector) + 0.5)
+  
+  # Return results as a data frame only if all calculations succeeded
+  df_WIS <- data.frame(location = region, WIS = WIS, AE = AE, MSE = MSE)
+  return(data.frame(
+    reference_date = date,
+    target_end_date = forecast_date,
+    model = model,
+    WIS = mean(df_WIS$WIS, na.rm = TRUE),
+    MAE = mean(df_WIS$AE, na.rm = TRUE),
+    MSE = mean(df_WIS$MSE, na.rm = TRUE),
+    region = region,
+    target = tid,
+    horizon = j
+  ))
 }
 
+
 # Main Loop for Forecast Calculation
-for (reference_date in all_ref_dates) {
-  for (model in model_names) {
-    filename <- file.path(model_output_dir, model, paste0(reference_date, "-", model, ".csv"))
-    if (!file.exists(filename)) next
+for (reference_date in all_ref_dates){
+  reference_date <- as_date(reference_date)
+  for (model in model_names){
+    filename <- paste0("model-output/", model, "/", reference_date, "-", model, ".csv")
     
+    # Check if file exists
+    if (!file.exists(filename)) {
+      next  # Skip to the next model if the file doesn't exist
+    }
+    
+    # Read forecast data once per model
     forecast <- read_csv(filename, show_col_types = FALSE)
+    
+    # Filter forecast data only once for location and target
     for (region in region_vector) {
       for (tid in target_vector) {
+        # Filter forecast data for the current region and target
         filtered_forecast <- forecast %>%
           filter(location == region, target == tid)
         
-        if (nrow(filtered_forecast) == 0) next
+        # If no data for this combination, skip
+        if (nrow(filtered_forecast) == 0) {
+          next
+        }
         
+        # Loop over forecast horizons (0 to 3 weeks)
         for (j in 0:3) {
-          target_date <- reference_date + days(7 * j)
-          horizon_forecast <- filtered_forecast %>% filter(horizon == j)
+          target_date <- as.Date(reference_date) + (j * 7)
           
-          if (nrow(horizon_forecast) == 0) next
+          # Filter for current horizon
+          horizon_forecast <- filtered_forecast %>%
+            filter(horizon == j)
           
-          single_true <- df_hhs %>% filter(time == target_date, geo_value == region) %>% pull(covid)
-          if (length(single_true) == 0) next
+          # If no data for this horizon, skip
+          if (nrow(horizon_forecast) == 0) {
+            next
+          }
           
-          WIS_result <- WIS(horizon_forecast, single_true)
+          # Log the current process
+          cat("Ref. Date:", as.character(reference_date), 
+              "| Model:", model, 
+              "| Target Date:", as.character(target_date), 
+              "| Region:", region, 
+              "| Target:", tid, "\n")
           
-          # Append results to list
-          WIS_all[[length(WIS_all) + 1]] <- data.frame(
-            reference_date = reference_date,
-            target_end_date = target_date,
-            model = model,
-            WIS = WIS_result,
-            AE = abs(single_true - median(horizon_forecast$value[horizon_forecast$output_type_id == 0.5])),
-            MSE = (single_true - median(horizon_forecast$value[horizon_forecast$output_type_id == 0.5]))^2,
-            region = region,
-            target = tid,
-            horizon = j
+          # Call WIS function with filtered forecast
+          WIS_current <- WIS(
+            single_forecast = horizon_forecast, 
+            model = model, 
+            date = as.character(reference_date), 
+            forecast_date = as.character(target_date), 
+            region = region, 
+            tid = tid,
+            j=j
           )
+          
+          # If WIS was successfully calculated, append it to the results
+          if (!is.null(WIS_current)) {
+            WIS_all <- bind_rows(WIS_all, WIS_current)
+          } else {
+            cat('WIS calculation returned NULL for model:', model, 
+                '| Region:', region, '| Target:', tid, '| Horizon:', j, "\n")
+          }
         }
       }
     }
   }
 }
 
-# Concatenate all results
-WIS_all <- bind_rows(WIS_all)
-
-# Calculate average scores by model and horizon
 WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
-  rowwise() %>%
-  mutate(
-    Average_WIS = mean(WIS_all$WIS[WIS_all$model == Model & WIS_all$horizon == Horizon], na.rm = TRUE),
-    Average_MAE = mean(WIS_all$AE[WIS_all$model == Model & WIS_all$horizon == Horizon], na.rm = TRUE),
-    Average_MSE = mean(WIS_all$MSE[WIS_all$model == Model & WIS_all$horizon == Horizon], na.rm = TRUE)
-  ) %>%
-  ungroup()
+  mutate(Average_WIS = NA, Average_MAE = NA, Average_MSE = NA)
+
+for (model_name in model_names) {
+  for (h in 0:3) {
+    WIS_horizon <- WIS_all %>% filter(model == model_name, target_end_date == (as_date(reference_date) + (h * 7)))
+    WIS_average$Average_WIS[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$WIS, na.rm = TRUE)
+    WIS_average$Average_MAE[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$MAE, na.rm = TRUE)
+    WIS_average$Average_MSE[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$MSE, na.rm = TRUE)
+  }
+}
 
 # Write results to CSV
 write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
