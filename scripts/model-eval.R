@@ -86,7 +86,7 @@ WIS <- function(single_forecast, model, date, forecast_date, region, tid, j) {
 for (reference_date in all_ref_dates) {
   reference_date <- as_date(reference_date)
   for (model in model_names) {
-    filename <- paste0("model-output/", model, "/", reference_date, "-", model, ".csv")
+    filename <- paste0("hospitalization/model-output/", model, "/", reference_date, "-", model, ".csv")
     cat("Processing file:", filename, "\n")
     
     if (!file.exists(filename)) {
