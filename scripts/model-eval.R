@@ -87,7 +87,7 @@ for (reference_date in all_ref_dates) {
   reference_date <- as_date(reference_date)
   for (model in model_names) {
     filename <- paste0("model-output/", model, "/", reference_date, "-", model, ".csv")
-    cat("Processing file:", filename, "\n")  # Log the file being processed
+    cat("Processing file:", filename, "\n")
     
     if (!file.exists(filename)) {
       cat("File does not exist:", filename, "\n")
@@ -95,7 +95,10 @@ for (reference_date in all_ref_dates) {
     }
     
     forecast <- read_csv(filename, show_col_types = FALSE)
-    print(head(forecast))  # Check the first few rows of forecast data
+    if (!is.data.frame(forecast)) {
+      cat("Error: forecast is not a data frame for file:", filename, "\n")
+      next
+    }
     
     for (region in region_vector) {
       for (tid in target_vector) {
@@ -115,12 +118,6 @@ for (reference_date in all_ref_dates) {
             cat("No forecast data for horizon:", j, "on target date:", target_date, "\n")
             next
           }
-          
-          cat("Ref. Date:", as.character(reference_date), 
-              "| Model:", model, 
-              "| Target Date:", as.character(target_date), 
-              "| Region:", region, 
-              "| Target:", tid, "\n")
           
           WIS_current <- WIS(
             single_forecast = horizon_forecast, 
@@ -144,22 +141,27 @@ for (reference_date in all_ref_dates) {
   }
 }
 
-cat("Calculating WIS averages...\n")
-WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
-  mutate(Average_WIS = NA, Average_MAE = NA, Average_MSE = NA)
+# Check if WIS_all has any data before proceeding
+if (length(WIS_all) == 0 || is.null(WIS_all) || nrow(WIS_all) == 0) {
+  cat("No forecast data available for any model. Skipping WIS average calculation.\n")
+} else {
+  cat("Calculating WIS averages...\n")
+  WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
+    mutate(Average_WIS = NA, Average_MAE = NA, Average_MSE = NA)
 
-for (model_name in model_names) {
-  for (h in 0:3) {
-    WIS_horizon <- WIS_all %>% filter(model == model_name, target_end_date == (as_date(reference_date) + (h * 7)))
-    WIS_average$Average_WIS[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$WIS, na.rm = TRUE)
-    WIS_average$Average_MAE[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$AE, na.rm = TRUE)
-    WIS_average$Average_MSE[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$MSE, na.rm = TRUE)
+  for (model_name in model_names) {
+    for (h in 0:3) {
+      WIS_horizon <- WIS_all %>% filter(model == model_name, target_end_date == (as_date(reference_date) + (h * 7)))
+      WIS_average$Average_WIS[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$WIS, na.rm = TRUE)
+      WIS_average$Average_MAE[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$AE, na.rm = TRUE)
+      WIS_average$Average_MSE[WIS_average$Model == model_name & WIS_average$Horizon == h] <- mean(WIS_horizon$MSE, na.rm = TRUE)
+    }
   }
+  
+  # Write results to CSV
+  write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
+  write_csv(WIS_all, "hospitalization-output/all_scores.csv")
 }
-
-cat("Writing results to CSV files...\n")
-write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
-write_csv(WIS_all, "hospitalization-output/all_scores.csv")
 
 # Aggregate model output with additional checks
 cat("Aggregating model output...\n")
