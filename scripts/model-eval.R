@@ -93,8 +93,8 @@ WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
   ungroup()
 
 # Write results to CSV
-write_csv(WIS_average, "hospitalization_WIS_average.csv")
-write_csv(WIS_all, "hospitalization_all_scores.csv")
+write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
+write_csv(WIS_all, "hospitalization-output/all_scores.csv")
 
 # Aggregate model output
 all_model_data <- lapply(list.dirs(model_output_dir, full.names = TRUE, recursive = FALSE), function(model_dir) {
@@ -126,4 +126,4 @@ concatenated_data <- bind_rows(all_model_data) %>%
   # Drop rows where either reference_date or target_end_date is NA
   filter(!is.na(reference_date), !is.na(target_end_date))
 
-write_csv(concatenated_data, "hospitalization_concatenated_model_output.csv")
+write_csv(concatenated_data, "hospitalization-output/concatenated_model_output.csv")
