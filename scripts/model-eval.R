@@ -186,7 +186,6 @@ all_model_data <- lapply(list.dirs(model_output_dir, full.names = TRUE, recursiv
                                    as_date(dmy(target_end_date)))) %>%
   # Drop rows where either reference_date or target_end_date is NA
   filter(!is.na(reference_date), !is.na(target_end_date))
-              )
     } else {
       cat("File does not exist:", file, "\n")
       return(NULL)
