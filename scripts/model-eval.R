@@ -4,13 +4,13 @@ library(readr)
 library(MMWRweek)
 
 # Load and process dataset 
-df_hhs <- read_csv('target-data/season_2024_2025/hospitalization-data.csv') %>% #'hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv'
+df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization-data.csv') %>% #'hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv'
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
   arrange(date)
 
 # Define parameters hospitalization/
-model_output_dir <- "model-output" #"hospitalization/hospitalization-forecast/model-output"
+model_output_dir <- "hospitalization/model-output" #"hospitalization/hospitalization-forecast/model-output"
 model_names <- list.dirs(model_output_dir, full.names = FALSE, recursive = FALSE)
 current_reference_date <- floor_date(Sys.Date(), unit = "week") + days(6)
 start_reference_date <- as_date("2024-10-19")
