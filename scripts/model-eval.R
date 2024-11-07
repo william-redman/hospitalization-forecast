@@ -4,13 +4,13 @@ library(readr)
 library(MMWRweek)
 
 # Load and process dataset
-df_hhs <- read_csv('hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv') %>%
+df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization-data.csv') %>% #'hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv'
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
   arrange(date)
 
 # Define parameters
-model_output_dir <- "hospitalization/hospitalization-forecast/model-output"
+model_output_dir <- "hospitalization/model-output" #"hospitalization/hospitalization-forecast/model-output"
 model_names <- list.dirs(model_output_dir, full.names = FALSE, recursive = FALSE)
 current_reference_date <- floor_date(Sys.Date(), unit = "week") + days(6)
 start_reference_date <- as_date("2024-10-26")
@@ -93,8 +93,8 @@ WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
   ungroup()
 
 # Write results to CSV
-write_csv(WIS_average, "hospitalization/WIS_average.csv")
-write_csv(WIS_all, "hospitalization/all_scores.csv")
+write_csv(WIS_average, "hospitalization_WIS_average.csv")
+write_csv(WIS_all, "hospitalization_all_scores.csv")
 
 # Aggregate model output
 all_model_data <- lapply(list.dirs(model_output_dir, full.names = TRUE, recursive = FALSE), function(model_dir) {
@@ -115,4 +115,4 @@ concatenated_data <- bind_rows(all_model_data) %>%
   ) %>%
   filter(!is.na(reference_date), !is.na(target_end_date))
 
-write_csv(concatenated_data, "hospitalization/concatenated_model_output.csv")
+write_csv(concatenated_data, "hospitalization_concatenated_model_output.csv")
