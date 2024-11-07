@@ -3,13 +3,13 @@ library(dplyr)
 library(readr)
 library(MMWRweek)
 
-# Load and process dataset
+# Load and process dataset 
 df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization-data.csv') %>% #'hospitalization/hospitalization-forecast/target-data/season_2024_2025/hospitalization-data.csv'
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
   arrange(date)
 
-# Define parameters
+# Define parameters hospitalization/
 model_output_dir <- "hospitalization/model-output" #"hospitalization/hospitalization-forecast/model-output"
 model_names <- list.dirs(model_output_dir, full.names = FALSE, recursive = FALSE)
 current_reference_date <- floor_date(Sys.Date(), unit = "week") + days(6)
@@ -103,16 +103,27 @@ all_model_data <- lapply(list.dirs(model_output_dir, full.names = TRUE, recursiv
   
   do.call(rbind, lapply(model_files, function(file) {
     read_csv(file, show_col_types = FALSE) %>%
-      mutate(model = model_name)
+      mutate(model = model_name,
+             reference_date = if_else(is.na(as_date(dmy(reference_date))),
+                                      as_date(as.numeric(reference_date)),
+                                      as_date(dmy(reference_date))),
+             target_end_date = if_else(is.na(as_date(dmy(target_end_date))),
+                                       as_date(as.numeric(target_end_date)),
+                                       as_date(dmy(target_end_date)))
+             
+             )
   }))
 })
 
 # Combine and clean data
 concatenated_data <- bind_rows(all_model_data) %>%
-  mutate(
-    reference_date = as_date(as.numeric(reference_date), origin = "1970-01-01"),
-    target_end_date = as_date(as.numeric(target_end_date), origin = "1970-01-01")
-  ) %>%
+  mutate(reference_date = if_else(is.na(as_date(dmy(reference_date))),
+                                  as_date(as.numeric(reference_date)),
+                                  as_date(dmy(reference_date))),
+         target_end_date = if_else(is.na(as_date(dmy(target_end_date))),
+                                   as_date(as.numeric(target_end_date)),
+                                   as_date(dmy(target_end_date)))) %>%
+  # Drop rows where either reference_date or target_end_date is NA
   filter(!is.na(reference_date), !is.na(target_end_date))
 
 write_csv(concatenated_data, "hospitalization_concatenated_model_output.csv")
