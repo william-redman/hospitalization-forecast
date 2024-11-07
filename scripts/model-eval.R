@@ -9,6 +9,8 @@ df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
   arrange(date)
+write_csv(df_hhs, "hospitalization-output/hospitalization-data.csv")
+
 print(head(df_hhs))  # Check first few rows to ensure data is loaded correctly
 
 # Define parameters
@@ -199,4 +201,5 @@ concatenated_data <- bind_rows(all_model_data) %>%
   filter(!is.na(reference_date), !is.na(target_end_date))
 
 write_csv(concatenated_data, "hospitalization-output/concatenated_model_output.csv")
+
 cat("Script completed successfully.\n")
