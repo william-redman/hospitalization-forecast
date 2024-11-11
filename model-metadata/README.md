@@ -57,7 +57,7 @@ model_contributors: [
 
 ### license
 
-One of the [accepted licenses](https://github.com/cdcepi/FluSight-forecast-hub/blob/673e983fee54f3a21448071ac46a9f78d27dd164/hub-config/model-metadata-schema.json#L69-L75).
+One of the [accepted licenses](https://github.com/ai4castinghub/hospitalization-forecast/blob/main/hub-config/model-metadata-schema.json#L69-L76).
 
 We encourage teams to submit as a "cc-by-4.0" to allow the broadest possible uses
 including private vaccine production (which would be excluded by the "cc-by-nc-4.0" license). 
@@ -85,7 +85,7 @@ A boolean value (`true` or `false`) that indicates whether a model is an ensembl
 
 ### ensemble_of_hub_models
 
-A boolean value (`true` or `false`) that indicates whether a model is an ensemble specifically of other models submited to the FluSight forecasting hub.
+A boolean value (`true` or `false`) that indicates whether a model is an ensemble specifically of other models submited to the AI4Casting Hub.
 
 ## Optional
 
