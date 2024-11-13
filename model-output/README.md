@@ -126,8 +126,9 @@ Teams must provide the following 7 quantiles:
 
 ### `value`
 
-Values in the `value` column are non-negative numbers indicating the "quantile" prediction for this row. For a "quantile" prediction, `value` is the inverse of the cumulative distribution function (CDF) for the target, location, and quantile associated with that row. For example, the 2.5 and 97.5 quantiles for a given target and location should capture 95% of the predicted values and correspond to the central 95% Prediction Interval. 
+Values in the `value` column are non-negative integer numbers indicating the "quantile" prediction for this row. For a "quantile" prediction, `value` is the inverse of the cumulative distribution function (CDF) for the target, location, and quantile associated with that row. For example, the 2.5 and 97.5 quantiles for a given target and location should capture 95% of the predicted values and correspond to the central 95% Prediction Interval.
 
+For predicted hospital bed occupancy (count), forecast `value` for quantiles less than 0.5 should be rounded down, `value` for quantiles greater than 0.5 should be rounded up, and `value` for the 0.5 quantile should be rounded normally. This rounding procedure will ensure that teams are not penalized for missing the prediction interval by less than one hospital bed occupancy. 
 
 
 ### Example tables
