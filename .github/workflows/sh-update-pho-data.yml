@@ -2,8 +2,6 @@ name: SH Update Target Data
 
 on:
   workflow_dispatch:  # Allows manual triggering
-  schedule:
-    - cron: '0 21 * * THU'  # Runs every Thursday at 21:00 UTC
 
 permissions:
   contents: write  # Explicitly grant write access
