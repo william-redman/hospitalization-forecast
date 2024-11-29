@@ -1,3 +1,4 @@
+reference_date,target,horizon,target_end_date,location,output_type,output_type_id,value
 2024-11-30,wk inc covid hosp,0,2024-11-23,East,quantile,0.025,140
 2024-11-30,wk inc covid hosp,0,2024-11-23,East,quantile,0.1,140
 2024-11-30,wk inc covid hosp,0,2024-11-23,East,quantile,0.25,150
