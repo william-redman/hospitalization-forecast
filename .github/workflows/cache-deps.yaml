@@ -10,7 +10,7 @@ on:
 jobs:
   build-deps-cache-on-main:
     if: ${{ github.repository_owner == 'ai4castinghub' }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # R not supported for ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
