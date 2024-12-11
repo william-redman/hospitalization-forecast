@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update_target_data:
-    runs-on: ubuntu-latest
+    runs-on:  ubuntu-22.04 # R not supported for ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}  # Use the personal token
 
