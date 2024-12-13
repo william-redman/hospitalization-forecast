@@ -11,7 +11,7 @@ on:
 
 jobs:
   validate_and_check:
-    runs-on: ubuntu-latest
+    runs-on:  ubuntu-22.04 # R not supported for ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
