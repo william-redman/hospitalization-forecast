@@ -15,6 +15,6 @@ license: "CC-BY-4.0"
 designated_model: true
 methods: "Simple Baseline"
 data_inputs: "Hospital Bed Occupancy ON"
-methods_long: "This is a simple forecasting model for epiprocess::epi_df data. It uses the most recent observation as the forecast for any future date, and produces intervals by shuffling the quantiles of the residuals of such a "flatline" forecast and incrementing these forward over all available training data."
+methods_long: "This is a simple forecasting model for epiprocess::epi_df data. It uses the most recent observation as the forecast for any future date, and produces intervals by shuffling the quantiles of the residuals of such a 'flatline' forecast and incrementing these forward over all available training data."
 ensemble_of_models: False
 ensemble_of_hub_models: False
