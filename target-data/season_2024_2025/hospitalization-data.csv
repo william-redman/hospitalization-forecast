@@ -112,16 +112,23 @@
 2024-12-14,"Toronto","OH Region",146,18,47
 2024-12-14,"West","OH Region",237,14,39
 2024-12-21,"Central","OH Region",159,43,38
-2024-12-21,"East","OH Region",181,20,54
+2024-12-21,"East","OH Region",181,21,54
 2024-12-21,"North East","OH Region",44,1,6
 2024-12-21,"North West","OH Region",12,2,1
-2024-12-21,"Ontario","Province",796,149,202
+2024-12-21,"Ontario","Province",796,150,202
 2024-12-21,"Toronto","OH Region",135,54,54
 2024-12-21,"West","OH Region",266,27,46
-2024-12-28,"Central","OH Region",160,83,49
-2024-12-28,"East","OH Region",245,24,50
-2024-12-28,"North East","OH Region",27,3,9
+2024-12-28,"Central","OH Region",163,83,51
+2024-12-28,"East","OH Region",248,24,51
+2024-12-28,"North East","OH Region",28,3,9
 2024-12-28,"North West","OH Region",9,5,3
-2024-12-28,"Ontario","Province",865,225,239
+2024-12-28,"Ontario","Province",871,225,241
 2024-12-28,"Toronto","OH Region",136,61,66
 2024-12-28,"West","OH Region",287,48,63
+2025-01-04,"Central","OH Region",221,106,72
+2025-01-04,"East","OH Region",256,59,74
+2025-01-04,"North East","OH Region",41,19,14
+2025-01-04,"North West","OH Region",21,11,3
+2025-01-04,"Ontario","Province",1049,415,346
+2025-01-04,"Toronto","OH Region",190,130,101
+2025-01-04,"West","OH Region",321,89,81
