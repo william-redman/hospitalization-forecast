@@ -34,7 +34,7 @@ create_file_path <- function(base_dir, file_name) {
 }
 
 # Read and preprocess the data
-data <- read.csv('concatenated_hospitalization_data.csv') |>
+data <- read.csv('auxiliary-data/concatenated_hospitalization_data.csv') |>
   mutate(time_value = as.Date(time)) |>
   select(-time, -geo_type, -Season)
 
@@ -79,7 +79,7 @@ if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 write.csv(all_preds, file_path, row.names = FALSE)
 
 # Read model output
-model_op <- read.csv('concatenated_model_output.csv')
+model_op <- read.csv('auxiliary-data/concatenated_model_output.csv')
 colnames(model_op)[colnames(model_op) == "model"] <- "model_id"
 
 # Filter and create ensemble
