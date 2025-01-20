@@ -24,7 +24,7 @@ model_data = model_data[model_data['reference_date'] == ref_date]
 
 # Group by region (location)
 targets = model_data['target'].unique()
-file_name = 'forecast-reports/' + str(ref_date)+"-Forecast_Report.pdf"
+file_name = 'weekly-forecast-reports/' + str(ref_date)+"-Forecast_Report.pdf"
 # Open a PDF to save the plots
 with PdfPages(file_name) as pdf:
     # Iterate over each target
