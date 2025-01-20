@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted # R not supported for ubuntu-latest
+    runs-on: ubuntu-22.04 #self-hosted # R not supported for ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
