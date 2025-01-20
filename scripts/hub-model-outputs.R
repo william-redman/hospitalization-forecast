@@ -89,12 +89,15 @@ model_outputs <- model_op |>
   filter(model_id != 'AI4Casting_Hub-Quantile_Baseline') |>
   filter(model_id != 'AI4Casting_Hub-Ensemble_v1')
 
-ensemble <- simple_ensemble(model_outputs, agg_fun = mean, model_id = 'hub_ensemble')
+ensemble <- simple_ensemble(model_outputs, agg_fun = mean, model_id = 'AI4Casting_Hub-Ensemble_v1')
 
 # Save ensemble
-ensemble_output_dir <- "model-output/AI4Casting_Hub-Ensemble"
-ensemble_file_name <- paste0(as.character(ref_date), "-AI4Casting_Hub-Ensemble.csv")
+ensemble_output_dir <- "model-output/AI4Casting_Hub-Ensemble_v1"
+ensemble_file_name <- paste0(as.character(ref_date), "-AI4Casting_Hub-Ensemble_v1.csv")
 ensemble_file_path <- create_file_path(ensemble_output_dir, ensemble_file_name)
+
+ensemble <- ensemble |>
+  select(-model_id)
 
 if (!dir.exists(ensemble_output_dir)) dir.create(ensemble_output_dir, recursive = TRUE)
 write.csv(ensemble, ensemble_file_path, row.names = FALSE)
