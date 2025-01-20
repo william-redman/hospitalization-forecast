@@ -1,0 +1,736 @@
+"location","horizon","reference_date","target_end_date","target","output_type","output_type_id","value"
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,120
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,138.666666666667
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,166
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,218
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,264.666666666667
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,296.333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,321
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,63
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,69.3333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,83.3333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,105.666666666667
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,128.333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,143
+"Central",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,157
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,40.6666666666667
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,44.3333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,50.3333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,61.3333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,77.3333333333333
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,86
+"Central",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,90.3333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,74.3333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,123.333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,165.333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,230
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,294.333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,348.333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,437
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,21
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,43.3333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,72.6666666666667
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,111.666666666667
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,147.666666666667
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,182.333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,234
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,21
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,37
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,49.6666666666667
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,64.6666666666667
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,82.6666666666667
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,97.3333333333333
+"Central",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,125
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,50.6666666666667
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,89
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,147
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,227
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,309
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,379.333333333333
+"Central",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,519
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,15.6666666666667
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,16.6666666666667
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,59.3333333333333
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,122
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,176
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,231.666666666667
+"Central",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,305
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,11.6666666666667
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,27.3333333333333
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,47
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,68
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,85.3333333333333
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,108.333333333333
+"Central",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,135
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,27
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,42.3333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,108.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,204.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,308.666666666667
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,391.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,611.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,12
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,12
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,40.6666666666667
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,143.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,226.666666666667
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,323.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,512.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,10
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,21.6666666666667
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,47.6666666666667
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,70.6666666666667
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,95
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,134.333333333333
+"Central",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,263.666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,21.6666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,38.3333333333333
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,78.3333333333333
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,191.333333333333
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,305
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,439
+"Central",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,1095.33333333333
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,8.66666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,14.6666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,27.3333333333333
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,176
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,298
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,435.333333333333
+"Central",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,758.666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,8
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,9
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,44
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,76.6666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,102.666666666667
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,144
+"Central",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,336.666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,126.666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,142.666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,168.333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,210.333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,253
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,282
+"East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,301.333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,36.3333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,44
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,55.6666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,74.6666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,94.3333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,109.333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,126.666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,46.3333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,50.6666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,56.3333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,68.3333333333333
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,82
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,89.6666666666667
+"East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,102
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,68.3333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,115
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,161
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,220.333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,285
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,341
+"East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,463.333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,9.66666666666667
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,29.6666666666667
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,51.3333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,78
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,107.666666666667
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,136.333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,188.333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,21.3333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,39.3333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,52.3333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,68.6666666666667
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,86.3333333333333
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,108
+"East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,130
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,48.6666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,69
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,133
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,216
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,297
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,364.666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,498.666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,8
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,23
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,51.6666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,84
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,121
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,163.666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,283.666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,13
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,26.6666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,49
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,70.3333333333333
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,88
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,114.666666666667
+"East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,143.666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,40
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,49.6666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,111.666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,217.333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,314.666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,413
+"East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,704.666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,6.33333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,6.66666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,46.6666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,96
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,150
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,212.666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,426
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,10.3333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,14.6666666666667
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,49.3333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,74.3333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,102.333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,137.333333333333
+"East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,262.333333333333
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,33.3333333333333
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,40
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,55.6666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,201
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,319.666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,506.666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,16138.3333333333
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,4.66666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,8
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,41
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,114.666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,197.333333333333
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,311.333333333333
+"East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,801.333333333333
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,8
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,10
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,42.6666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,80.3333333333333
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,118.666666666667
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,147
+"East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,347
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,16
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,19
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,22
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,32
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,46.6666666666667
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,55.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,61.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,6.66666666666667
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,9.33333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,15.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,23.6666666666667
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,33
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,39.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,46
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,9
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,10
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,11.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,14.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,17.6666666666667
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,19.3333333333333
+"North East",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,21.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,8
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,10
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,20.3333333333333
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,37.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,58.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,77
+"North East",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,106.666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,2.66666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,3
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,10
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,23
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,37
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,51
+"North East",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,76.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,5
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,7.33333333333333
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,10.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,14
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,18.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,22.6666666666667
+"North East",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,28.3333333333333
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,7.33333333333333
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,8.66666666666667
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,14.6666666666667
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,37.6666666666667
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,60.3333333333333
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,82
+"North East",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,121
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,2
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,2.66666666666667
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,10.3333333333333
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,25.6666666666667
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,43
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,62
+"North East",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,122
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,3
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,4.33333333333333
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,9
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,14
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,18.6666666666667
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,23.3333333333333
+"North East",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,29.6666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,5.33333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,7.33333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,14
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,39
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,64.6666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,95.3333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,222.666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,1.66666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,2.33333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,11.6666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,29.6666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,52.3333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,85
+"North East",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,201.333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,1.66666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,3.66666666666667
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,9.33333333333333
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,14
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,20
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,29
+"North East",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,61.3333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,4.33333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,7.33333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,8.33333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,33.3333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,62
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,92.3333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,191.666666666667
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,1.33333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,2.33333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,12.6666666666667
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,34.6666666666667
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,66.6666666666667
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,114
+"North East",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,373.333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,1.33333333333333
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,1.66666666666667
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,7.66666666666667
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,15
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,22
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,30
+"North East",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,71
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,9
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,12.3333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,14
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,18
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,25.3333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,30
+"North West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,33
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,4
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,5.33333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,7.33333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,10
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,13.3333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,16
+"North West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,18.6666666666667
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,0.666666666666667
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,1
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,2
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,3.33333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,5.33333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,6.33333333333333
+"North West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,7
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,1.66666666666667
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,6.33333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,11
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,18.6666666666667
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,28.6666666666667
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,37
+"North West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,50.3333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,1.33333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,2
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,6
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,10.3333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,15.6666666666667
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,20.3333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,30
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,0.333333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,0.333333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,1.66666666666667
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,3.66666666666667
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,6.33333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,8.33333333333333
+"North West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,11
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,1.66666666666667
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,4.33333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,9.66666666666667
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,19
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,31.3333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,44.3333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,77.6666666666667
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,1
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,1.33333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,5.33333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,11
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,17
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,24
+"North West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,41
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,0.333333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,0.333333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,1.33333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,3.33333333333333
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,6
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,8
+"North West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,11.6666666666667
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,1.33333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,3.66666666666667
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,8.66666666666667
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,19.3333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,33.3333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,52
+"North West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,124.666666666667
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,1
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,1
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,5.33333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,13.3333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,22.3333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,33.6666666666667
+"North West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,74.6666666666667
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,0.333333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,0.333333333333333
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,1
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,4
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,7
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,10
+"North West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,25.6666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,1.33333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,3.33333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,8
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,19.3333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,35
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,69
+"North West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,347.333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,0.666666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,1.33333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,3.66666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,15.6666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,29
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,46.6666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,113.666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,0.333333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,0.333333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,0.666666666666667
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,4
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,7.33333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,12.3333333333333
+"North West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,25.3333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,575.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,637
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,756.666666666667
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,980.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,1206
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,1339.66666666667
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,1438
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,224.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,265
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,328.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,428.666666666667
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,534.666666666667
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,624.666666666667
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,670
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,212.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,230.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,253
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,292.666666666667
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,338.333333333333
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,394
+"Ontario",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,448.666666666667
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,429.666666666667
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,651.333333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,828
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,1123.33333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,1402.66666666667
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,1604
+"Ontario",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,2073.33333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,78.6666666666667
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,201.666666666667
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,319.333333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,466.333333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,619.333333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,767
+"Ontario",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,978
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,124.333333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,189.666666666667
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,248
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,305.333333333333
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,363
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,448
+"Ontario",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,629
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,298.333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,383
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,704.333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,1119.66666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,1422.66666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,1761.66666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,2217.66666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,54.3333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,58.6666666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,279.333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,498.333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,712.333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,923.333333333333
+"Ontario",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,1319
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,65.6666666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,134
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,236
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,320
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,382
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,483.666666666667
+"Ontario",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,737.666666666667
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,163.666666666667
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,218
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,525.666666666667
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,1049
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,1526.33333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,1766.66666666667
+"Ontario",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,2768.33333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,43.3333333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,45.3333333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,245.333333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,588.333333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,910.333333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,1294
+"Ontario",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,2206.33333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,53
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,103.666666666667
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,243
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,338.666666666667
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,418.333333333333
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,621
+"Ontario",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,1252
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,157.333333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,157.333333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,266.666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,957.333333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,1467.33333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,1853.66666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,3090.33333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,31.6666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,52.6666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,182.666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,699
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,1163
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,1764
+"Ontario",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,3458.33333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,44.6666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,44.6666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,214
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,363.333333333333
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,456.666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,645.666666666667
+"Ontario",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,1316.33333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,100.666666666667
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,115.666666666667
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,150.333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,215.666666666667
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,276.333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,313.333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,340
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,62.3333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,74.3333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,91
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,117
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,143.333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,168.666666666667
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,191.333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,53.3333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,58
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,65
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,77.6666666666667
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,94.3333333333333
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,107
+"Toronto",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,113.666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,75
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,127.666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,175.666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,250.666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,327.333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,393.333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,466.666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,21.6666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,49.3333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,85.6666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,127
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,171
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,215.333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,311.333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,24.6666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,48.3333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,65.3333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,83
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,103.666666666667
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,127.333333333333
+"Toronto",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,155.666666666667
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,52
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,89.3333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,152.333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,239.333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,337
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,404
+"Toronto",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,552.666666666667
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,16.3333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,18.3333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,78
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,139.333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,200
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,271
+"Toronto",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,433
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,15.6666666666667
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,29.3333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,63.6666666666667
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,86.3333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,105.333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,127.333333333333
+"Toronto",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,174.666666666667
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,23.3333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,35.3333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,95
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,192.333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,309.333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,408
+"Toronto",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,677
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,13
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,13.6666666666667
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,72.3333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,167.333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,265.333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,387
+"Toronto",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,742
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,14
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,30.3333333333333
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,69.6666666666667
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,95.6666666666667
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,121.666666666667
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,180.666666666667
+"Toronto",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,403
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,18.6666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,33
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,63.3333333333333
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,148.333333333333
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,288.333333333333
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,407
+"Toronto",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,1065.33333333333
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,9.66666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,15.6666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,37.6666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,193.666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,339.333333333333
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,519
+"Toronto",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,1023.66666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,12.3333333333333
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,12.6666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,59.6666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,99
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,128
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,175.666666666667
+"Toronto",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,408.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.025,217.333333333333
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.1,238
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.25,271.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.5,325.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.75,382
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.9,417.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc covid hosp","quantile",0.975,456.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.025,38.6666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.1,44
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.25,54
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.5,81.6666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.75,110.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.9,132.666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc flu hosp","quantile",0.975,144.333333333333
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.025,55.3333333333333
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.1,59.6666666666667
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.25,66.3333333333333
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.5,78
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.75,95
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.9,105
+"West",-1,"2025-01-18","2025-01-11","wk inc rsv hosp","quantile",0.975,109.333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.025,159
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.1,212.333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.25,269.333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.5,356
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.75,433
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.9,511
+"West",0,"2025-01-18","2025-01-18","wk inc covid hosp","quantile",0.975,680
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.025,12.3333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.1,31.3333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.25,49.6666666666667
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.5,85.3333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.75,125.333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.9,160.333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc flu hosp","quantile",0.975,209
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.025,32.3333333333333
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.1,47.6666666666667
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.25,59.6666666666667
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.5,76.6666666666667
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.75,98.6666666666667
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.9,114.666666666667
+"West",0,"2025-01-18","2025-01-18","wk inc rsv hosp","quantile",0.975,141.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.025,138
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.1,159.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.25,229.666666666667
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.5,351.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.75,435.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.9,562.666666666667
+"West",1,"2025-01-18","2025-01-25","wk inc covid hosp","quantile",0.975,700
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.025,11
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.1,12
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.25,48
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.5,88
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.75,139
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.9,186.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc flu hosp","quantile",0.975,275.666666666667
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.025,13.6666666666667
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.1,32.3333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.25,55.6666666666667
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.5,76
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.75,102.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.9,125.333333333333
+"West",1,"2025-01-18","2025-01-25","wk inc rsv hosp","quantile",0.975,158.333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.025,101.666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.1,122.333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.25,204
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.5,336.666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.75,435
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.9,598
+"West",2,"2025-01-18","2025-02-01","wk inc covid hosp","quantile",0.975,1058
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.025,9
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.1,9.33333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.25,47.3333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.5,105
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.75,180
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.9,267.666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc flu hosp","quantile",0.975,476.333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.025,11.6666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.1,23.3333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.25,52.6666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.5,76.3333333333333
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.75,106.666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.9,146.666666666667
+"West",2,"2025-01-18","2025-02-01","wk inc rsv hosp","quantile",0.975,285
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.025,61.6666666666667
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.1,78
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.25,125.666666666667
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.5,292.333333333333
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.75,525.666666666667
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.9,20091.6666666667
+"West",3,"2025-01-18","2025-02-08","wk inc covid hosp","quantile",0.975,20221
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.025,6.66666666666667
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.1,10.6666666666667
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.25,32.3333333333333
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.5,126.666666666667
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.75,231.333333333333
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.9,359
+"West",3,"2025-01-18","2025-02-08","wk inc flu hosp","quantile",0.975,716
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.025,9.33333333333333
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.1,11
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.25,53.3333333333333
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.5,79
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.75,115
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.9,161.333333333333
+"West",3,"2025-01-18","2025-02-08","wk inc rsv hosp","quantile",0.975,373.666666666667
