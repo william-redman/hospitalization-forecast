@@ -7657,6 +7657,741 @@ West,3,2025-01-25,2025-02-15,wk inc rsv hosp,quantile,0.5,51.6666666666667,AI4Ca
 West,3,2025-01-25,2025-02-15,wk inc rsv hosp,quantile,0.75,92.3333333333333,AI4Casting_Hub-Ensemble_v1
 West,3,2025-01-25,2025-02-15,wk inc rsv hosp,quantile,0.9,125.666666666667,AI4Casting_Hub-Ensemble_v1
 West,3,2025-01-25,2025-02-15,wk inc rsv hosp,quantile,0.975,345.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,85,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,103.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,126.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,164.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,207,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,234,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,259.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,65,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,75.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,89,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,115.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,139,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,152.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,165.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,24,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,30.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,37.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,51,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,67,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,73,AI4Casting_Hub-Ensemble_v1
+Central,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,80,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,44,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,67.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,83.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,131.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,184,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,223.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,298,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,28.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,46.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,69.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,104.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,138.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,165.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,200.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,12.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,16.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,27,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,46.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,68.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,82,AI4Casting_Hub-Ensemble_v1
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,104.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,38.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,45.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,65,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,101.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,163.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,219.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,324.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,21.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,26,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,51.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,98.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,140.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,178,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,223.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,10.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,12.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,16.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,45.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,73.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,93.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,139.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,31.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,38.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,52.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,88.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,154,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,220,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,286.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,19.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,24.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,35.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,92.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,149.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,212.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,272.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,10.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,14,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,42.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,70.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,95.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,172,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,22,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,38.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,45,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,78.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,141.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,205.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,357.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,15.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,23,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,32.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,87,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,176.333333333333,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,295.666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,1261.33333333333,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,10.3333333333333,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,12,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,38.6666666666667,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,75,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,145,AI4Casting_Hub-Ensemble_v1
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,218,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,80.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,98,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,121.333333333333,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,156,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,195.666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,218.333333333333,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,238,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,53.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,61,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,73,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,100.666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,126,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,141.666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,154.333333333333,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,27.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,33,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,40.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,53.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,66.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,75.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,81.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,44.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,57,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,82,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,132.666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,188,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,232,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,303.333333333333,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,38.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,47.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,62,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,93.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,120.666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,140.333333333333,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,161.666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,13.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,17,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,29.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,47.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,68,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,83.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,107,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,37.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,44.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,58,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,110.333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,178.666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,237.333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,346.333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,16.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,33,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,51.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,84.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,119.666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,145.666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,178,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,11.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,13.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,18.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,45.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,75.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,106.333333333333,AI4Casting_Hub-Ensemble_v1
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,166.666666666667,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,28.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,39.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,49,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,98.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,179.666666666667,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,255,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,309,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,12.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,12.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,34.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,81.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,124,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,165.333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,211,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,10,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,11.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,16.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,43,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,73.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,105.333333333333,AI4Casting_Hub-Ensemble_v1
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,221.333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,22.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,38.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,45.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,79.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,174.333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,259.333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,430,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,9,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,15.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,22.6666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,76.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,131.666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,189.333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,267,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,9.66666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,11.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,15.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,40.3333333333333,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,73,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,115.666666666667,AI4Casting_Hub-Ensemble_v1
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,283,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,15.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,18.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,21.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,35.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,49,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,58,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,63,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,5.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,7.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,10.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,19,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,28.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,35,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,40,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,3.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,5,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,7,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,10.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,13.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,15.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,17,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,9,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,13.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,18,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,33.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,50,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,60.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,78.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,4.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,4.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,5.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,16.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,27.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,36,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,46,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,4.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,13,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,16,AI4Casting_Hub-Ensemble_v1
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,20.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,7.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,9,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,15,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,30.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,49,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,62.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,84.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,3,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,3,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,4.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,15,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,27.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,40,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,53,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,2,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,3,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,14,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,19.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,30.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,6.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,7.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,12,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,28.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,48,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,62.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,79.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,4.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,14.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,28.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,41.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,58.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,2,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,2,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,3.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,9,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,14.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,21,AI4Casting_Hub-Ensemble_v1
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,40.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,5.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,6.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,8.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,24.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,45,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,67.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,1325,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,4.33333333333333,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,13.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,30,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,45.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,131.333333333333,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,1.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,2,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,3,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,7.66666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,14.3333333333333,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,22.6666666666667,AI4Casting_Hub-Ensemble_v1
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,50.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,5,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,5.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,7.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,12,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,19.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,24,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,28.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,4,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,4.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,6,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,9,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,12.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,14,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,17,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,1.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,3.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,5.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,7,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,10,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,4.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,5.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,6,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,12,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,21.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,27,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,36.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,2,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,2,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,4,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,8.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,12.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,16.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,23.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,0.666666666666667,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,1,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,5,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,7.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,9.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,11,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,4,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,4.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,5.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,9.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,19.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,27.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,40.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,1.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,7.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,12,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,17.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,31.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,0.666666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,0.666666666666667,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,4.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,7.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,9,AI4Casting_Hub-Ensemble_v1
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,12.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,3.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,4,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,5.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,20,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,30,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,38.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,1.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,7,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,12.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,19,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,42,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,0.666666666666667,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,1,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,1.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,4,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,6.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,14,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,2.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,4,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,5,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,8.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,21.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,31.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,46.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,1.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,1.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,2.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,6.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,14.3333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,23.6666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,69,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,0.333333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,0.666666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,1.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,3.33333333333333,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,6.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,9.66666666666667,AI4Casting_Hub-Ensemble_v1
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,19,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,435,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,508.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,609.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,771.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,954.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,1053.33333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,1131.66666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,280,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,325,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,391.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,512.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,625.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,695.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,748.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,152.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,179.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,214.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,269.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,323,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,357,AI4Casting_Hub-Ensemble_v1
+Ontario,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,386,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,215.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,330,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,426.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,651.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,881.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,1040.66666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,1184.66666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,151.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,226,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,330.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,482.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,635.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,749.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,887.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,69,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,105.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,162,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,243.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,321.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,396,AI4Casting_Hub-Ensemble_v1
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,504.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,176.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,213,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,313.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,534.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,798.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,1029,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,1256,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,89,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,107,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,237,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,441.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,631.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,825.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,972.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,55.3333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,65.3333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,109.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,225,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,342.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,491,AI4Casting_Hub-Ensemble_v1
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,770.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,145,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,177.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,241.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,413.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,749.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,986,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,1285.66666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,70,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,85,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,157,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,417.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,682.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,925,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,1157.33333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,51.6666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,56,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,81.3333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,214,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,342.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,487.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,1038,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,103.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,175.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,210.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,375.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,731,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,1039.33333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,1439.66666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,53,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,88.6666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,127.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,386.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,738.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,1045.66666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,5398,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,46.3333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,52.6666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,73,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,201.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,329.333333333333,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,470.666666666667,AI4Casting_Hub-Ensemble_v1
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,1351.33333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,99.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,112,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,138.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,186,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,234.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,261,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,281.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,61,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,73.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,90,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,115,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,144,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,162.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,175,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,46.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,56.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,66.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,82.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,98.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,109,AI4Casting_Hub-Ensemble_v1
+Toronto,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,115.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,69.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,86,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,97.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,146.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,198.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,243.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,320.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,26.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,41.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,66.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,106,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,143,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,175.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,216.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,23.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,36.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,51.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,75.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,96.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,115.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,178,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,41,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,58.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,83.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,98,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,165,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,229.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,327,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,22.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,30.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,46,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,96,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,149,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,202.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,247.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,17,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,18.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,36,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,69,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,97.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,143,AI4Casting_Hub-Ensemble_v1
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,260.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,30.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,34.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,61.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,89,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,118,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,187.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,266,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,21.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,28.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,35,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,90,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,162.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,228,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,300.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,16.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,17.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,26.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,67,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,102,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,148.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,343.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,22,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,37.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,42.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,81.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,107.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,184.666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,404.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,17,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,24.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,31,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,81.3333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,184.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,257.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,1067,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,14,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,15,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,21,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,60.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,97.6666666666667,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,143.333333333333,AI4Casting_Hub-Ensemble_v1
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,408.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.025,155.333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.1,172.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.25,192,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.5,219,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.75,251.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.9,272.333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc covid hosp,quantile,0.975,291.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.025,67.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.1,71.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.25,93.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.5,136,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.75,179.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.9,203.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc flu hosp,quantile,0.975,221.666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.025,43.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.1,49.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.25,58,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.5,73.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.75,88.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.9,98.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,-1,2025-02-01,2025-01-25,wk inc rsv hosp,quantile,0.975,104.666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,89.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,123,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,153.666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,198.666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,244.666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,288.666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,378.333333333333,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,52,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,62,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,75.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,128,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,176.333333333333,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,208,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,244,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,18.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,27,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,39.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,59.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,83.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,100.333333333333,AI4Casting_Hub-Ensemble_v1
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,129.666666666667,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,48,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,60,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,86.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,144,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,204.333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,266.333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,398,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,24.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,47.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,63,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,112.666666666667,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,166.333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,205,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,248,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,13,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,15,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,27.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,53.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,84.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,123.666666666667,AI4Casting_Hub-Ensemble_v1
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,192.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,36.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,51,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,65.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,122.666666666667,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,188.666666666667,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,277.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,343.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,16.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,16.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,42.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,105.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,171.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,230,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,297.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,11.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,13.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,17.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,46.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,78,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,116.333333333333,AI4Casting_Hub-Ensemble_v1
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,251.666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,29.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,49.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,60,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,105.666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,197,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,286.333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,501.333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,12,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,12,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,24.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,98.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,179.333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,260.666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,360.666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,11.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,13,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,13.6666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,42.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,75.3333333333333,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,111.666666666667,AI4Casting_Hub-Ensemble_v1
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,329.666666666667,AI4Casting_Hub-Ensemble_v1
 Central,0,2024-11-30,2024-11-30,wk inc covid hosp,quantile,0.025,16,AI4Casting_Hub-Quantile_Baseline
 Central,0,2024-11-30,2024-11-30,wk inc covid hosp,quantile,0.1,68,AI4Casting_Hub-Quantile_Baseline
 Central,0,2024-11-30,2024-11-30,wk inc covid hosp,quantile,0.25,92,AI4Casting_Hub-Quantile_Baseline
@@ -11941,6 +12676,594 @@ West,3,2025-01-25,2025-02-15,wk inc flu hosp,quantile,0.5,140,AI4Casting_Hub-Qua
 West,3,2025-01-25,2025-02-15,wk inc flu hosp,quantile,0.75,152,AI4Casting_Hub-Quantile_Baseline
 West,3,2025-01-25,2025-02-15,wk inc flu hosp,quantile,0.9,166,AI4Casting_Hub-Quantile_Baseline
 West,3,2025-01-25,2025-02-15,wk inc flu hosp,quantile,0.975,185,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,51,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,100,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,124,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,140,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,156,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,180,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,229,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,12,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,73,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,110,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,140,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,170,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,207,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,276,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,55,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,100,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,140,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,180,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,226,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,313,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,39,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,92,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,140,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,189,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,242,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,340,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,70,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,102,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,123,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,135,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,147,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,168,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,200,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,41,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,84,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,112,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,135,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,157,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,187,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,229,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,16,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,71,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,105,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,135,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,165,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,199,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,256,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,59,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,98,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,135,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,172,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,211,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,277,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,6,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,20,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,28,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,33,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,38,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,46,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,60,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,14,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,24,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,33,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,42,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,53,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,66,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,8,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,21,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,33,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,45,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,58,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,73,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,4,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,19,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,33,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,47,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,62,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,79,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,1,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,5,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,8,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,11,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,15,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,25,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,0,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,3,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,8,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,13,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,19,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,30,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,0,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,2,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,8,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,15,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,23,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,33,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,0,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,0,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,8,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,17,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,25,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,37,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,341,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,498,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,608,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,677,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,746,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,856,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,1013,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,156,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,413,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,564,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,677,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,790,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,941,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,1203,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,18,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,343,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,522,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,677,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,833,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,1014,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,1376,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,276,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,487,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,677,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,867,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,1079,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,1505,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,57,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,121,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,155,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,175,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,195,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,229,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,293,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,9,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,87,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,139,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,175,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,211,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,263,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,357,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,64,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,125,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,175,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,225,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,288,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,415,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,43,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,113,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,175,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,237,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,310,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,458,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.025,84,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.1,132,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.25,166,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.5,188,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.75,210,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.9,244,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc covid hosp,quantile,0.975,292,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.025,21,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.1,101,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.25,149,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.5,188,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.75,227,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.9,275,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc covid hosp,quantile,0.975,359,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.1,79,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.25,136,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.5,188,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.75,240,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.9,297,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc covid hosp,quantile,0.975,396,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.1,59,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.25,125,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.5,188,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.75,251,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.9,319,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc covid hosp,quantile,0.975,426,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,31,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,38,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,42,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,44,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,46,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,50,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,57,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,25,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,34,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,40,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,44,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,48,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,54,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,62,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,22,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,32,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,38,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,44,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,50,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,56,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,66,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,19,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,29,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,37,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,44,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,51,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,59,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,69,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,35,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,42,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,45,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,47,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,49,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,52,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,59,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,27,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,39,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,44,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,47,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,50,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,55,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,67,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,24,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,36,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,43,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,47,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,51,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,58,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,70,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,22,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,34,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,41,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,47,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,53,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,60,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,72,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,2,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,4,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,6,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,7,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,8,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,10,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,12,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,3,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,5,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,7,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,9,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,11,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,14,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,2,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,5,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,7,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,9,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,12,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,16,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,1,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,4,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,7,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,10,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,13,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,17,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,3,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,5,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,6,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,6,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,6,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,7,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,9,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,2,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,4,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,5,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,6,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,7,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,8,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,10,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,1,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,4,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,5,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,6,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,7,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,8,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,12,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,0,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,3,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,5,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,6,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,7,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,9,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,12,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,215,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,233,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,250,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,256,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,262,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,279,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,297,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,195,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,223,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,243,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,256,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,269,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,289,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,317,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,185,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,215,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,237,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,256,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,275,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,297,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,327,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,175,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,208,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,233,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,256,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,279,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,304,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,338,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,70,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,77,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,80,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,82,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,84,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,87,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,94,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,67,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,74,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,79,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,82,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,86,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,90,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,97,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,62,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,71,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,77,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,82,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,87,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,93,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,102,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,59,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,70,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,76,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,82,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,88,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,95,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,105,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.025,53,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.1,65,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.25,69,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.5,72,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.75,75,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.9,79,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc rsv hosp,quantile,0.975,91,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.025,49,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.1,58,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.25,67,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.5,72,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.75,77,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.9,86,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc rsv hosp,quantile,0.975,95,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.025,45,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.1,55,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.25,65,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.5,72,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.75,80,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.9,89,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc rsv hosp,quantile,0.975,99,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.025,41,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.1,53,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.25,63,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.5,72,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.75,81,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.9,91,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc rsv hosp,quantile,0.975,103,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,97,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,111,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,118,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,120,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,122,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,129,AI4Casting_Hub-Quantile_Baseline
+Central,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,143,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,89,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,104,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,115,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,120,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,124,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,136,AI4Casting_Hub-Quantile_Baseline
+Central,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,152,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,84,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,99,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,113,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,120,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,127,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,141,AI4Casting_Hub-Quantile_Baseline
+Central,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,156,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,80,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,96,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,110,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,120,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,130,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,144,AI4Casting_Hub-Quantile_Baseline
+Central,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,160,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,98,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,112,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,116,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,118,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,120,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,124,AI4Casting_Hub-Quantile_Baseline
+East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,138,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,93,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,106,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,115,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,118,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,122,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,130,AI4Casting_Hub-Quantile_Baseline
+East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,142,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,88,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,101,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,112,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,118,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,124,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,135,AI4Casting_Hub-Quantile_Baseline
+East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,148,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,85,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,99,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,110,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,118,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,126,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,137,AI4Casting_Hub-Quantile_Baseline
+East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,151,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,11,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,15,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,18,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,19,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,20,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,23,AI4Casting_Hub-Quantile_Baseline
+North East,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,27,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,6,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,13,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,17,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,19,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,21,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,25,AI4Casting_Hub-Quantile_Baseline
+North East,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,32,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,3,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,11,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,16,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,19,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,22,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,27,AI4Casting_Hub-Quantile_Baseline
+North East,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,35,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,1,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,10,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,15,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,19,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,23,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,28,AI4Casting_Hub-Quantile_Baseline
+North East,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,37,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,5,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,8,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,9,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,9,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,9,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,10,AI4Casting_Hub-Quantile_Baseline
+North West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,13,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,3,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,7,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,8,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,9,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,10,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,11,AI4Casting_Hub-Quantile_Baseline
+North West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,15,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,2,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,6,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,8,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,9,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,10,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,12,AI4Casting_Hub-Quantile_Baseline
+North West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,16,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,1,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,5,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,7,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,9,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,11,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,13,AI4Casting_Hub-Quantile_Baseline
+North West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,17,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,449,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,512,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,533,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,539,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,545,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,566,AI4Casting_Hub-Quantile_Baseline
+Ontario,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,629,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,429,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,472,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,523,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,539,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,555,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,606,AI4Casting_Hub-Quantile_Baseline
+Ontario,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,649,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,403,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,459,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,513,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,539,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,566,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,619,AI4Casting_Hub-Quantile_Baseline
+Ontario,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,676,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,382,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,449,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,502,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,539,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,576,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,629,AI4Casting_Hub-Quantile_Baseline
+Ontario,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,695,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,95,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,110,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,115,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,117,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,119,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,124,AI4Casting_Hub-Quantile_Baseline
+Toronto,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,139,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,85,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,103,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,113,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,117,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,122,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,130,AI4Casting_Hub-Quantile_Baseline
+Toronto,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,149,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,80,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,99,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,110,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,117,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,124,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,135,AI4Casting_Hub-Quantile_Baseline
+Toronto,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,154,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,76,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,95,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,108,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,117,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,126,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,139,AI4Casting_Hub-Quantile_Baseline
+Toronto,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,159,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.025,134,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.1,147,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.25,154,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.5,157,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.75,160,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.9,167,AI4Casting_Hub-Quantile_Baseline
+West,0,2025-02-01,2025-02-01,wk inc flu hosp,quantile,0.975,180,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.025,120,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.1,139,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.25,150,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.5,157,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.75,164,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.9,175,AI4Casting_Hub-Quantile_Baseline
+West,1,2025-02-01,2025-02-08,wk inc flu hosp,quantile,0.975,194,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.025,116,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.1,134,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.25,147,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.5,157,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.75,167,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.9,180,AI4Casting_Hub-Quantile_Baseline
+West,2,2025-02-01,2025-02-15,wk inc flu hosp,quantile,0.975,198,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.025,112,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.1,130,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.25,145,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.5,157,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.75,169,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.9,184,AI4Casting_Hub-Quantile_Baseline
+West,3,2025-02-01,2025-02-22,wk inc flu hosp,quantile,0.975,202,AI4Casting_Hub-Quantile_Baseline
 East,-1,2024-11-30,2024-11-23,wk inc covid hosp,quantile,0.025,123,JHUAPL-DMD
 East,-1,2024-11-30,2024-11-23,wk inc covid hosp,quantile,0.1,138,JHUAPL-DMD
 East,-1,2024-11-30,2024-11-23,wk inc covid hosp,quantile,0.25,147,JHUAPL-DMD
