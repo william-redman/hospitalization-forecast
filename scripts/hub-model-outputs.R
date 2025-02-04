@@ -88,7 +88,9 @@ ref_date <- lubridate::ceiling_date(Sys.Date(), "week") - days(1) - weeks(1)
 model_outputs <- model_op |>
   filter(reference_date == ref_date) |>
   filter(model_id != 'AI4Casting_Hub-Quantile_Baseline') |>
-  filter(model_id != 'AI4Casting_Hub-Ensemble_v1')
+  filter(model_id != 'AI4Casting_Hub-Ensemble_v1') |>
+  filter(model_id != 'AI4Casting_Hub-Weighted_Ensemble')
+  
 
 ensemble <- simple_ensemble(model_outputs, agg_fun = mean, model_id = 'AI4Casting_Hub-Ensemble_v1')
 
