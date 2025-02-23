@@ -1,0 +1,589 @@
+reference_date,target,horizon,target_end_date,location,output_type,output_type_id,value
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.025,68.11935719982276
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.1,72.90243941291138
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.25,82.46860383908862
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.5,98.41221121605068
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.75,114.35581859301274
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.9,123.92198301918998
+2025-02-22,wk inc covid hosp,0,2025-02-22,Central,quantile,0.975,128.7050652322786
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.025,61.01219962541477
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.1,67.77649936111021
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.25,81.3050988325011
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.5,103.85276461815258
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.75,126.40043040380405
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.9,139.92902987519494
+2025-02-22,wk inc covid hosp,1,2025-03-01,Central,quantile,0.975,146.69332961089037
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.025,72.90910440837442
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.1,81.19364581822288
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.25,97.76272863791984
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.5,125.37786667074808
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.75,152.99300470357633
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.9,169.56208752327328
+2025-02-22,wk inc covid hosp,2,2025-03-08,Central,quantile,0.975,177.84662893312174
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.025,85.48266811515356
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.1,95.0488325413308
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.25,114.18116139368527
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.5,146.0683761476094
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.75,177.95559090153353
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.9,197.087919753888
+2025-02-22,wk inc covid hosp,3,2025-03-15,Central,quantile,0.975,206.65408418006524
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.025,136.72524473133458
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.1,137.5053874256505
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.25,139.0656728142823
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.5,141.666148462002
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.75,144.26662410972173
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.9,145.82690949835353
+2025-02-22,wk inc flu hosp,0,2025-02-22,Central,quantile,0.975,146.60705219266944
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.025,133.20441114543794
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.1,134.30769952432578
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.25,136.5142762821015
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.5,140.19190421172766
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.75,143.86953214135383
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.9,146.07610889912954
+2025-02-22,wk inc flu hosp,1,2025-03-01,Central,quantile,0.975,147.17939727801738
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.025,132.42376886888553
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.1,133.77501565259436
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.25,136.47750922001202
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.5,140.98166516570814
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.75,145.48582111140425
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.9,148.1883146788219
+2025-02-22,wk inc flu hosp,2,2025-03-08,Central,quantile,0.975,149.53956146253074
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.025,129.75588525276333
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.1,131.31617064139516
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.25,134.4367414186588
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.5,139.63769271409822
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.75,144.83864400953763
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.9,147.95921478680128
+2025-02-22,wk inc flu hosp,3,2025-03-15,Central,quantile,0.975,149.5195001754331
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.025,25.92734783721933
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.1,26.444198142857136
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.25,27.47789875413275
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.5,29.200733106258767
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.75,30.923567458384785
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.9,31.957268069660397
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Central,quantile,0.975,32.474118375298204
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.025,23.372558180211463
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.1,24.103494892161127
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.25,25.565368316060457
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.5,28.001824022559337
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.75,30.438279729058216
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.9,31.900153152957547
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Central,quantile,0.975,32.63108986490721
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.025,21.732368140603256
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.1,22.627579129875436
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.25,24.4180011084198
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.5,27.402037739327078
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.75,30.386074370234354
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.9,32.17649634877872
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Central,quantile,0.975,33.0717073380509
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.025,19.25568668718754
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.1,20.289387298463154
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.25,22.356788521014376
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.5,25.802457225266416
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.75,29.248125929518455
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.9,31.315527152069677
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Central,quantile,0.975,32.34922776334529
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.025,84.95605537193097
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.1,88.50599302459665
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.25,95.60586832992799
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.5,107.43899383881356
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.75,119.27211934769913
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.9,126.37199465303047
+2025-02-22,wk inc covid hosp,0,2025-02-22,East,quantile,0.975,129.92193230569615
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.025,84.78753095549247
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.1,89.80790092947117
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.25,99.84864087742858
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.5,116.58320745735759
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.75,133.3177740372866
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.9,143.358513985244
+2025-02-22,wk inc covid hosp,1,2025-03-01,East,quantile,0.975,148.37888395922272
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.025,92.11512651952046
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.1,98.2637988976392
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.25,110.56114365387668
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.5,131.05671824760583
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.75,151.55229284133497
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.9,163.84963759757244
+2025-02-22,wk inc covid hosp,2,2025-03-08,East,quantile,0.975,169.9983099756912
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.025,96.610125965762
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.1,103.71000127109333
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.25,117.90975188175602
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.5,141.57600289952717
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.75,165.2422539172983
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.9,179.442004527961
+2025-02-22,wk inc covid hosp,3,2025-03-15,East,quantile,0.975,186.54187983329234
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.025,185.44935990063738
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.1,186.08001777322843
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.25,187.34133351841058
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.5,189.44352642704746
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.75,191.54571933568434
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.9,192.80703508086648
+2025-02-22,wk inc flu hosp,0,2025-02-22,East,quantile,0.975,193.43769295345754
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.025,201.7154431685521
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.1,202.60732808518776
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.25,204.39109791845905
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.5,207.36404764057787
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.75,210.33699736269668
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.9,212.12076719596797
+2025-02-22,wk inc flu hosp,1,2025-03-01,East,quantile,0.975,213.01265211260363
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.025,219.300228415152
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.1,220.392559892673
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.25,222.57722284771506
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.5,226.21832777278513
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.75,229.8594326978552
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.9,232.04409565289725
+2025-02-22,wk inc flu hosp,2,2025-03-08,East,quantile,0.975,233.13642713041827
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.025,236.81803568254114
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.1,238.07935142772325
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.25,240.60198291808751
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.5,244.80636873536127
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.75,249.01075455263503
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.9,251.5333860429993
+2025-02-22,wk inc flu hosp,3,2025-03-15,East,quantile,0.975,252.7947017881814
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.025,27.872969396010383
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.1,28.3980634363095
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.25,29.44825151690773
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.5,31.198564984571455
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.75,32.94887845223518
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.9,33.99906653283341
+2025-02-22,wk inc rsv hosp,0,2025-02-22,East,quantile,0.975,34.52416057313253
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.025,26.89386568964508
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.1,27.636460802957373
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.25,29.12165102958196
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.5,31.59696807395628
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.75,34.0722851183306
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.9,35.557475344955186
+2025-02-22,wk inc rsv hosp,1,2025-03-01,East,quantile,0.975,36.300070458267484
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.025,24.033309059198263
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.1,24.942798615747954
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.25,26.76177772884733
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.5,29.793409584012963
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.75,32.82504143917859
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.9,34.64402055227797
+2025-02-22,wk inc rsv hosp,2,2025-03-08,East,quantile,0.975,35.55351010882766
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.025,22.942162404867545
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.1,23.992350485465778
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.25,26.092726646662246
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.5,29.59335358198969
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.75,33.093980517317135
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.9,35.1943566785136
+2025-02-22,wk inc rsv hosp,3,2025-03-15,East,quantile,0.975,36.24454475911183
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.025,7.268573809706416
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.1,8.828548239859204
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.25,11.94849710016478
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.5,17.14841186734074
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.75,22.348326634516702
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.9,25.46827549482228
+2025-02-22,wk inc covid hosp,0,2025-02-22,North East,quantile,0.975,27.028249924975064
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.025,1.7405441275105957
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.1,3.946681123587908
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.25,8.358955115742535
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.5,15.712745102666915
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.75,23.066535089591294
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.9,27.478809081745922
+2025-02-22,wk inc covid hosp,1,2025-03-01,North East,quantile,0.975,29.684946077823234
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.025,-10.141984278993991
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.1,-7.4400293074610575
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.25,-2.0361193643951845
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.5,6.970397207381269
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.75,15.976913779157723
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.9,21.380823722223596
+2025-02-22,wk inc covid hosp,2,2025-03-08,North East,quantile,0.975,24.082778693756527
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.025,-16.081327923441634
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.1,-12.961379063136059
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.25,-6.721481342524907
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.5,3.678348191827015
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.75,14.078177726178936
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.9,20.31807544679009
+2025-02-22,wk inc covid hosp,3,2025-03-15,North East,quantile,0.975,23.438024307095667
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.025,42.9559492616976
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.1,43.68381919603249
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.25,45.139559064702276
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.5,47.56579217915191
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.75,49.99202529360155
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.9,51.44776516227134
+2025-02-22,wk inc flu hosp,0,2025-02-22,North East,quantile,0.975,52.17563509660623
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.025,44.403328669326605
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.1,45.43269220210662
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.25,47.49141926766666
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.5,50.92263104360005
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.75,54.35384281953344
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.9,56.412569885093475
+2025-02-22,wk inc flu hosp,1,2025-03-01,North East,quantile,0.975,57.44193341787349
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.025,46.48593094351618
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.1,47.74663865108604
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.25,50.268054066225744
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.5,54.470413091458596
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.75,58.67277211669145
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.9,61.194187531831155
+2025-02-22,wk inc flu hosp,2,2025-03-08,North East,quantile,0.975,62.45489523940101
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.025,47.78939455407142
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.1,49.24513442274121
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.25,52.15661416008078
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.5,57.00908038898005
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.75,61.86154661787933
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.9,64.7730263552189
+2025-02-22,wk inc flu hosp,3,2025-03-15,North East,quantile,0.975,66.22876622388868
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.025,3.5846574638989455
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.1,4.002657666505463
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.25,4.838658071718502
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.5,6.231992080406897
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.75,7.625326089095292
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.9,8.46132649430833
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North East,quantile,0.975,8.879326696914848
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.025,3.0876507095598225
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.1,3.6787922651606624
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.25,4.8610753763623435
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.5,6.831547228365144
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.75,8.802019080367945
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.9,9.984302191569626
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North East,quantile,0.975,10.575443747170466
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.025,0.44530391131205693
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.1,1.169301499800632
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.25,2.617296676777782
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.5,5.0306219717396985
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.75,7.443947266701615
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.9,8.891942443678765
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North East,quantile,0.975,9.615940032167341
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.025,0.1358782115810202
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.1,0.971878616794057
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.25,2.6438794272201322
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.5,5.4305474445969235
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.75,8.217215461973716
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.9,9.88921627239979
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North East,quantile,0.975,10.725216677612828
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.025,3.162382558087949
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.1,4.246612216771497
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.25,6.415071534138593
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.5,10.029170396417086
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.75,13.643269258695579
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.9,15.811728576062677
+2025-02-22,wk inc covid hosp,0,2025-02-22,North West,quantile,0.975,16.895958234746224
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.025,2.1452679834645387
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.1,3.6786002715019634
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.25,6.7452648475768155
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.5,11.856372474368234
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.75,16.96748010115965
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.9,20.034144677234504
+2025-02-22,wk inc covid hosp,1,2025-03-01,North West,quantile,0.975,21.56747696527193
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.025,4.1978995240983945
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.1,6.0758403800113605
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.25,9.831722091837296
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.5,16.091524944880522
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.75,22.351327797923748
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.9,26.107209509749683
+2025-02-22,wk inc covid hosp,2,2025-03-08,North West,quantile,0.975,27.985150365662648
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.025,-1.4088550492559069
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.1,0.7596042681111879
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.25,5.096522902845381
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.5,12.324720627402368
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.75,19.552918351959356
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.9,23.889836986693545
+2025-02-22,wk inc covid hosp,3,2025-03-15,North West,quantile,0.975,26.05829630406064
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.025,17.535285744640177
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.1,18.396425312133715
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.25,20.118704447120795
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.5,22.989169672099262
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.75,25.85963489707773
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.9,27.58191403206481
+2025-02-22,wk inc flu hosp,0,2025-02-22,North West,quantile,0.975,28.443053599558347
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.025,16.48380267270584
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.1,17.701637928151303
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.25,20.137308439042233
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.5,24.19675929052712
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.75,28.256210142012005
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.9,30.691880652902935
+2025-02-22,wk inc flu hosp,1,2025-03-01,North West,quantile,0.975,31.9097159083484
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.025,13.959450483855285
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.1,15.450987967161986
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.25,18.434062933775383
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.5,23.405854544797716
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.75,28.37764615582005
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.9,31.360721122433446
+2025-02-22,wk inc flu hosp,2,2025-03-08,North West,quantile,0.975,32.85225860574015
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.025,12.084080805207027
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.1,13.806359940194106
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.25,17.250918210168265
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.5,22.9918486601252
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.75,28.732779110082134
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.9,32.177337380056294
+2025-02-22,wk inc flu hosp,3,2025-03-15,North West,quantile,0.975,33.89961651504338
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.025,0.058269672734486466
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.1,0.42802065652461674
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.25,1.1675226241048777
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.5,2.4000259034053126
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.75,3.6325291827057473
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.9,4.372031150286008
+2025-02-22,wk inc rsv hosp,0,2025-02-22,North West,quantile,0.975,4.741782134076139
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.025,-0.5116998252567453
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.1,0.01120703072005158
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.25,1.0570207426736455
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.5,2.8000435959296355
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.75,4.543066449185625
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.9,5.588880161139219
+2025-02-22,wk inc rsv hosp,1,2025-03-01,North West,quantile,0.975,6.111787017116017
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.025,-1.2559733777915323
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.1,-0.6155458877184508
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.25,0.6653090924277141
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.5,2.8000673926713215
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.75,4.934825692914929
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.9,6.215680673061094
+2025-02-22,wk inc rsv hosp,2,2025-03-08,North West,quantile,0.975,6.856108163134175
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.025,-2.4834152076153435
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.1,-1.743913240035083
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.25,-0.264909304874561
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.5,2.200097253726309
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.75,4.665103812327178
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.9,6.1441077474877
+2025-02-22,wk inc rsv hosp,3,2025-03-15,North West,quantile,0.975,6.883609715067961
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.025,478.3209673011097
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.1,494.75898747945445
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.25,527.635027836144
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.5,582.4284284306265
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.75,637.221829025109
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.9,670.0978693817985
+2025-02-22,wk inc covid hosp,0,2025-02-22,Ontario,quantile,0.975,686.5358895601432
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.025,543.6480214088922
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.1,566.8948924836699
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.25,613.3886346332255
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.5,690.8782048824846
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.75,768.3677751317438
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.9,814.8615172812994
+2025-02-22,wk inc covid hosp,1,2025-03-01,Ontario,quantile,0.975,838.1083883560771
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.025,643.1379341236878
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.1,671.6094202484234
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.25,728.5523924978944
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.5,823.4573462470129
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.75,918.3622999961314
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.9,975.3052722456024
+2025-02-22,wk inc covid hosp,2,2025-03-08,Ontario,quantile,0.975,1003.7767583703379
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.025,756.2743952673105
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.1,789.150435624
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.25,854.902516337379
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.5,964.489317526344
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.75,1074.0761187153091
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.9,1139.828199428688
+2025-02-22,wk inc covid hosp,3,2025-03-15,Ontario,quantile,0.975,1172.7042397853775
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.025,708.0545144459064
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.1,713.1280036257323
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.25,723.2749819853839
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.5,740.1866125848032
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.75,757.0982431842226
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.9,767.2452215438742
+2025-02-22,wk inc flu hosp,0,2025-02-22,Ontario,quantile,0.975,772.3187107237001
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.025,739.0129540191296
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.1,746.1879512257924
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.25,760.537945639118
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.5,784.4546029946607
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.75,808.3712603502034
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.9,822.721254763529
+2025-02-22,wk inc flu hosp,1,2025-03-01,Ontario,quantile,0.975,829.8962519701919
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.025,783.2680237609918
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.1,792.0555647921011
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.25,809.6306468543196
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.5,838.9224502913505
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.75,868.2142537283814
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.9,885.7893357905999
+2025-02-22,wk inc flu hosp,2,2025-03-08,Ontario,quantile,0.975,894.5768768217092
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.025,823.2098280282862
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.1,833.3568063879378
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.25,853.6507631072411
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.5,887.4740243060799
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.75,921.2972855049186
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.9,941.5912422242219
+2025-02-22,wk inc flu hosp,3,2025-03-15,Ontario,quantile,0.975,951.7382205838735
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.025,141.42635443597965
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.1,144.14497846074877
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.25,149.58222651028697
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.5,158.64430659285065
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.75,167.70638667541434
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.9,173.14363472495253
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Ontario,quantile,0.975,175.86225874972166
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.025,134.3843317956569
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.1,138.22904676247867
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.25,145.91847669612227
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.5,158.73419325219493
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.75,171.54990980826759
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.9,179.23933974191118
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Ontario,quantile,0.975,183.08405470873296
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.025,124.16074799299486
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.1,128.86954293057232
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.25,138.28713280572728
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.5,153.98311593098555
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.75,169.6790990562438
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.9,179.09668893139877
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Ontario,quantile,0.975,183.80548386897624
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.025,113.71573512076606
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.1,119.15298317030425
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.25,130.02747926938068
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.5,148.15163943450804
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.75,166.2757995996354
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.9,177.15029569871183
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Ontario,quantile,0.975,182.58754374825003
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.025,108.90726828285501
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.1,114.93704004477476
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.25,126.99658356861426
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.5,147.09582277501343
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.75,167.1950619814126
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.9,179.2546055052521
+2025-02-22,wk inc covid hosp,0,2025-02-22,Toronto,quantile,0.975,185.28437726717186
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.025,133.03791511879876
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.1,141.56530012251997
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.25,158.62007012996244
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.5,187.04468680903318
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.75,215.46930348810392
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.9,232.5240734955464
+2025-02-22,wk inc covid hosp,1,2025-03-01,Toronto,quantile,0.975,241.0514584992676
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.025,174.35535117518208
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.1,184.7992222248712
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.25,205.68696432424943
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.5,240.49986782321315
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.75,275.3127713221769
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.9,296.2005134215551
+2025-02-22,wk inc covid hosp,2,2025-03-08,Toronto,quantile,0.975,306.6443844712442
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.025,216.72564028756173
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.1,228.78518381140123
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.25,252.9042708590802
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.5,293.10274927187857
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.75,333.3012276846769
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.9,357.4203147323559
+2025-02-22,wk inc covid hosp,3,2025-03-15,Toronto,quantile,0.975,369.47985825619537
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.025,117.10055728756075
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.1,118.01300872917272
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.25,119.83791161239668
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.5,122.87941641776995
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.75,125.92092122314321
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.9,127.74582410636717
+2025-02-22,wk inc flu hosp,0,2025-02-22,Toronto,quantile,0.975,128.65827554797914
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.025,112.36933877271947
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.1,113.65973997645402
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.25,116.2405423839231
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.5,120.5418797297049
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.75,124.8432170754867
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.9,127.42401948295579
+2025-02-22,wk inc flu hosp,1,2025-03-01,Toronto,quantile,0.975,128.71442068669035
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.025,109.00269415020587
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.1,110.58310640651727
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.25,113.7439309191401
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.5,119.01197177351148
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.75,124.28001262788285
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.9,127.44083714050568
+2025-02-22,wk inc flu hosp,2,2025-03-08,Toronto,quantile,0.975,129.0212493968171
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.025,104.33199677360926
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.1,106.15689965683322
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.25,109.80670542328113
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.5,115.88971503402765
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.75,121.97272464477416
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.9,125.62253041122207
+2025-02-22,wk inc flu hosp,3,2025-03-15,Toronto,quantile,0.975,127.44743329444603
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.025,45.8920482212379
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.1,46.39746648959495
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.25,47.408303026309056
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.5,49.093030587499236
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.75,50.777758148689415
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.9,51.788594685403524
+2025-02-22,wk inc rsv hosp,0,2025-02-22,Toronto,quantile,0.975,52.29401295376057
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.025,34.20606653508044
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.1,34.9208359048621
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.25,36.35037464442544
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.5,38.73293921036434
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.75,41.11550377630324
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.9,42.545042515866584
+2025-02-22,wk inc rsv hosp,1,2025-03-01,Toronto,quantile,0.975,43.25981188564825
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.025,22.067441979032132
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.1,22.94285209890003
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.25,24.693672338635825
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.5,27.61170607152882
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.75,30.529739804421812
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.9,32.28056004415761
+2025-02-22,wk inc rsv hosp,2,2025-03-08,Toronto,quantile,0.975,33.155970164025504
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.025,10.52737704176527
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.1,11.538213578479377
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.25,13.559886651907592
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.5,16.92934177428795
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.75,20.298796896668307
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.9,22.320469970096518
+2025-02-22,wk inc rsv hosp,3,2025-03-15,Toronto,quantile,0.975,23.331306506810627
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.025,139.70830553044829
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.1,144.9976849443072
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.25,155.57644377202507
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.5,173.20770848488817
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.75,190.83897319775127
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.9,201.41773202546915
+2025-02-22,wk inc covid hosp,0,2025-02-22,West,quantile,0.975,206.70711143932806
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.025,165.63525785546395
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.1,173.1155699590803
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.25,188.076194166313
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.5,213.0105678450342
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.75,237.94494152375538
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.9,252.9055657309881
+2025-02-22,wk inc covid hosp,1,2025-03-01,West,quantile,0.975,260.3858778346044
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.025,195.7334886240755
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.1,204.89496250938805
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.25,223.21791028001317
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.5,253.75615656438836
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.75,284.2944028487635
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.9,302.6173506193887
+2025-02-22,wk inc covid hosp,2,2025-03-08,West,quantile,0.975,311.7788245047012
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.025,237.6343263575564
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.1,248.21308518527425
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.25,269.37060284071
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.5,304.6331322664362
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.75,339.8956616921624
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.9,361.05317934759813
+2025-02-22,wk inc covid hosp,3,2025-03-15,West,quantile,0.975,371.63193817531595
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.025,195.31814080508073
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.1,196.35634735040264
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.25,198.43276044104647
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.5,201.89344892545284
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.75,205.35413740985922
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.9,207.43055050050305
+2025-02-22,wk inc flu hosp,0,2025-02-22,West,quantile,0.975,208.46875704582496
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.025,204.44541242101326
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.1,205.91365819795203
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.25,208.85014975182955
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.5,213.74430234162543
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.75,218.6384549314213
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.9,221.57494648529882
+2025-02-22,wk inc flu hosp,1,2025-03-01,West,quantile,0.975,223.0431922622376
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.025,213.96478159848306
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.1,215.76300808373117
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.25,219.35946105422738
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.5,225.35354933838775
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.75,231.34763762254812
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.9,234.94409059304434
+2025-02-22,wk inc flu hosp,2,2025-03-08,West,quantile,0.975,236.74231707829244
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.025,222.1717957966733
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.1,224.24820888731713
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.25,228.40103506860476
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.5,235.3224120374175
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.75,242.24378900623026
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.9,246.39661518751788
+2025-02-22,wk inc flu hosp,3,2025-03-15,West,quantile,0.975,248.4730282781617
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.025,24.992421515309765
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.1,25.843202112150166
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.25,27.54476330583097
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.5,30.38069862863231
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.75,33.21663395143365
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.9,34.91819514511445
+2025-02-22,wk inc rsv hosp,0,2025-02-22,West,quantile,0.975,35.768975741954854
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.025,23.94873391914556
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.1,25.151919377801136
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.25,27.55829029511228
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.5,31.568908490630857
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.75,35.579526686149435
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.9,37.98589760346058
+2025-02-22,wk inc rsv hosp,1,2025-03-01,West,quantile,0.975,39.189083062116154
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.025,22.647739191334217
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.1,24.12133441115557
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.25,27.06852485079827
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.5,31.980508916869432
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.75,36.892492982940595
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.9,39.8396834225833
+2025-02-22,wk inc rsv hosp,2,2025-03-08,West,quantile,0.975,41.31327864240465
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.025,20.810243344612616
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.1,22.51180453829342
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.25,25.914926925655028
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.5,31.58679757125771
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.75,37.258668216860386
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.9,40.661790604222
+2025-02-22,wk inc rsv hosp,3,2025-03-15,West,quantile,0.975,42.3633517979028
