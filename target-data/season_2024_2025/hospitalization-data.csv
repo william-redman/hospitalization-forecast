@@ -143,8 +143,8 @@
 2025-01-18,"East","OH Region",180,107,65
 2025-01-18,"North East","OH Region",40,15,12
 2025-01-18,"North West","OH Region",19,10,5
-2025-01-18,"Ontario","Province",881,543,314
-2025-01-18,"Toronto","OH Region",202,150,104
+2025-01-18,"Ontario","Province",883,543,314
+2025-01-18,"Toronto","OH Region",204,150,105
 2025-01-18,"West","OH Region",242,141,73
 2025-01-25,"Central","OH Region",141,120,44
 2025-01-25,"East","OH Region",142,125,49
@@ -164,27 +164,34 @@
 2025-02-08,"East","OH Region",105,156,47
 2025-02-08,"North East","OH Region",21,45,8
 2025-02-08,"North West","OH Region",3,24,4
-2025-02-08,"Ontario","Province",518,717,212
-2025-02-08,"Toronto","OH Region",126,142,79
+2025-02-08,"Ontario","Province",520,719,212
+2025-02-08,"Toronto","OH Region",128,144,79
 2025-02-08,"West","OH Region",143,199,42
 2025-02-15,"Central","OH Region",106,152,33
 2025-02-15,"East","OH Region",101,171,32
 2025-02-15,"North East","OH Region",16,46,7
 2025-02-15,"North West","OH Region",9,23,3
-2025-02-15,"Ontario","Province",496,717,169
-2025-02-15,"Toronto","OH Region",120,128,60
+2025-02-15,"Ontario","Province",497,718,170
+2025-02-15,"Toronto","OH Region",121,129,60
 2025-02-15,"West","OH Region",144,196,35
 2025-02-22,"Central","OH Region",84,119,20
 2025-02-22,"East","OH Region",86,157,36
 2025-02-22,"North East","OH Region",23,33,10
 2025-02-22,"North West","OH Region",7,25,1
-2025-02-22,"Ontario","Province",448,619,150
-2025-02-22,"Toronto","OH Region",115,113,56
+2025-02-22,"Ontario","Province",448,619,151
+2025-02-22,"Toronto","OH Region",116,114,56
 2025-02-22,"West","OH Region",134,174,28
-2025-03-01,"Central","OH Region",74,88,9
-2025-03-01,"East","OH Region",59,143,25
+2025-03-01,"Central","OH Region",74,89,9
+2025-03-01,"East","OH Region",60,146,26
 2025-03-01,"North East","OH Region",23,34,7
 2025-03-01,"North West","OH Region",5,27,4
-2025-03-01,"Ontario","Province",347,525,129
+2025-03-01,"Ontario","Province",351,531,131
 2025-03-01,"Toronto","OH Region",89,97,56
-2025-03-01,"West","OH Region",100,136,27
+2025-03-01,"West","OH Region",103,138,28
+2025-03-08,"Central","OH Region",62,103,12
+2025-03-08,"East","OH Region",43,126,21
+2025-03-08,"North East","OH Region",9,38,7
+2025-03-08,"North West","OH Region",3,32,6
+2025-03-08,"Ontario","Province",273,508,122
+2025-03-08,"Toronto","OH Region",79,107,52
+2025-03-08,"West","OH Region",78,105,24
