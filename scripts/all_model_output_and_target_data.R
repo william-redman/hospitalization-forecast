@@ -80,5 +80,8 @@ all_model_data <- bind_rows(
   lapply(list.dirs(model_output_dir, full.names = TRUE, recursive = FALSE), process_model_dir)
 )
 
+all_model_data <- all_model_data %>%
+  mutate(values = ifelse(values < 0, 0, ceiling(values)))
+
 # Save the combined data to a CSV file
 write_csv(all_model_data, "auxiliary-data/concatenated_model_output.csv")
