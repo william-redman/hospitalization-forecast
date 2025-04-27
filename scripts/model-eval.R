@@ -163,8 +163,11 @@ if (length(WIS_all) == 0 || is.null(WIS_all) || nrow(WIS_all) == 0) {
     }
   }
   
+  WIS_all = WIS_all |>
+    mutate(values = ifelse(values < 0, NA, round(values, 3)))
+  
   write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
-  write_csv(WIS_all, "hospitalization-output/all_scores.csv")
+  write_csv(WIS_all, "hospitalization-output/all_hospitalization_scores.csv")
 }
 
 # Aggregate all model output
