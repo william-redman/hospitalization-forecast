@@ -162,9 +162,11 @@ if (length(WIS_all) == 0 || is.null(WIS_all) || nrow(WIS_all) == 0) {
       }
     }
   }
-  
+
   WIS_all = WIS_all |>
-    mutate(values = ifelse(values < 0, NA, round(values, 3)))
+    mutate(WIS = ifelse(WIS < 0, NA, round(WIS, 3)),
+           AE = ifelse(AE < 0, NA, round(AE, 3)),
+           MSE = ifelse(MSE < 0, NA, round(MSE, 3)))
   
   write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
   write_csv(WIS_all, "hospitalization-output/all_hospitalization_scores.csv")
