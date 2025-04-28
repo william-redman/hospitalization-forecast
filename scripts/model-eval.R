@@ -86,6 +86,7 @@ WIS <- function(single_forecast, model, reference_date, forecast_date, region, t
 
 # Main Loop for Forecast Calculation
 for (reference_date in all_ref_dates) {
+  reference_date <- as_date(reference_date)
   for (model in model_names) {
     filename <- paste0(model_output_dir, "/", model, "/", reference_date, "-", model, ".csv")
     cat("Processing file:", filename, "\n")
