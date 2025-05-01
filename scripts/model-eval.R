@@ -88,6 +88,13 @@ WIS <- function(single_forecast, model, date, forecast_date, region, tid, j) {
 # Main Loop for Forecast Calculation
 for (reference_date in all_ref_dates) {
   reference_date <- as_date(reference_date)
+  
+  # Removing 2024-12-28 and 2025-04-19 dates from evaluations
+
+  if (reference_date == as_date('2024-12-28') || reference_date == as_date('2025-04-19')) {
+    next
+  }
+  
   for (model in model_names) {
     filename <- paste0("hospitalization/model-output/", model, "/", reference_date, "-", model, ".csv")
     cat("Processing file:", filename, "\n")
@@ -152,9 +159,6 @@ if (length(WIS_all) == 0 || is.null(WIS_all) || nrow(WIS_all) == 0) {
   WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
     mutate(Average_WIS = NA, Average_MAE = NA, Average_MSE = NA)
   
-  # Removing 2024-12-28 and 2025-04-19 dates from evaluations
-  WIS_all <- WIS_all |>
-    filter(!date %in% c('2024-12-28', '2025-04-19'))
   
 
   for (model_name in model_names) {
