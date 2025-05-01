@@ -151,6 +151,11 @@ if (length(WIS_all) == 0 || is.null(WIS_all) || nrow(WIS_all) == 0) {
   cat("Calculating WIS averages...\n")
   WIS_average <- expand.grid(Horizon = 0:3, Model = model_names) %>%
     mutate(Average_WIS = NA, Average_MAE = NA, Average_MSE = NA)
+  
+  # Removing 2024-12-28 and 2025-04-19 dates from evaluations
+  WIS_all <- WIS_all |>
+    filter(date != as_date('2024-12-28'),
+           date != as_date('2025-04-19'))
 
   for (model_name in model_names) {
     for (h in 0:3) {
