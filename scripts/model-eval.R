@@ -3,8 +3,7 @@ library(dplyr)
 library(readr)
 library(MMWRweek)
 
-# Load and process dataset
-cat("Loading hospitalization data...\n")
+
 df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization-data.csv') %>%
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
@@ -18,7 +17,6 @@ model_output_dir <- "hospitalization/model-output"
 model_names <- list.dirs(model_output_dir, full.names = FALSE, recursive = FALSE)
 print(model_names)
 
-# set all reference dates
 current_reference_date <- floor_date(Sys.Date(), unit = "week") + days(6)
 start_reference_date <- as_date("2024-10-19")
 all_ref_dates <- seq(start_reference_date, current_reference_date, by = "7 days")
@@ -36,7 +34,7 @@ WIS <- function(single_forecast, model, date, forecast_date, region, tid, j) {
   
   single_true <- df_hhs %>%
     filter(time == as_date(forecast_date), geo_value == region) %>%
-    pull(covid)
+    pull(!!sym(tid))
   
   if (length(single_true) == 0) {
     cat("No true value for region:", region, "on date:", forecast_date, "\n")
