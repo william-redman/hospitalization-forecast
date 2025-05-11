@@ -1,5 +1,6 @@
 name: Build dependency cache on main branch
 on:
+  workflow_dispatch:
   push:
     branches: main
     paths:
