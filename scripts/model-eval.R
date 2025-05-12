@@ -25,16 +25,21 @@ all_ref_dates <- seq(start_reference_date, current_reference_date, by = "7 days"
 region_vector <- c("Ontario","North East", "West", "East","Central","North West","Toronto")
 target_vector <- c('wk inc covid hosp','wk inc flu hosp','wk inc rsv hosp')
 
+target_simplified <- c('wk inc covid hosp' = "covid",
+                       'wk inc flu hosp' = "flu",
+                       'wk inc rsv hosp' = "rsv")
+
 # Initialize results container
 WIS_all <- list()
 
 # Define WIS function
 WIS <- function(single_forecast, model, date, forecast_date, region, tid, j) {
   quantiles_vector <- c(0.025, 0.1, 0.25)
+  target_column <- target_simplified[tid]
   
   single_true <- df_hhs %>%
     filter(time == as_date(forecast_date), geo_value == region) %>%
-    pull(!!sym(tid))
+    pull(!!sym(target_column)) #pull(!!sym(tid))
   
   if (length(single_true) == 0) {
     cat("No true value for region:", region, "on date:", forecast_date, "\n")
