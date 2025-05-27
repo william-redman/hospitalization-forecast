@@ -251,10 +251,17 @@
 2025-05-03,"Ontario","Province",111,105,28
 2025-05-03,"Toronto","OH Region",27,25,13
 2025-05-03,"West","OH Region",24,23,2
-2025-05-10,"Central","OH Region",25,20,3
-2025-05-10,"East","OH Region",19,15,6
+2025-05-10,"Central","OH Region",26,20,3
+2025-05-10,"East","OH Region",19,17,6
 2025-05-10,"North East","OH Region",6,4,0
 2025-05-10,"North West","OH Region",0,0,0
-2025-05-10,"Ontario","Province",112,84,22
+2025-05-10,"Ontario","Province",113,87,22
 2025-05-10,"Toronto","OH Region",33,24,9
-2025-05-10,"West","OH Region",28,20,2
+2025-05-10,"West","OH Region",28,21,2
+2025-05-17,"Central","OH Region",24,12,4
+2025-05-17,"East","OH Region",13,9,5
+2025-05-17,"North East","OH Region",5,2,0
+2025-05-17,"North West","OH Region",2,0,0
+2025-05-17,"Ontario","Province",93,63,25
+2025-05-17,"Toronto","OH Region",28,26,10
+2025-05-17,"West","OH Region",16,14,6
