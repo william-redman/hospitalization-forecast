@@ -5,7 +5,7 @@
             "round_id_from_variable": true,
             "round_id": "reference_date",
             "model_tasks": [
-                {
+                {   //influenza
                     "task_ids": {
                         "reference_date": {
                             "required": null,

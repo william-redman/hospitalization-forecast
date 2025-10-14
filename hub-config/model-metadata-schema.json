@@ -110,10 +110,6 @@
         "ensemble_of_hub_models": {
             "description": "Indicator for whether this model is an ensemble specifically of other models submitted to this Hub",
             "type": "boolean"
-        },
-        "source_notes": {
-            "description": "Original source of the model output data",
-            "type": "string"
         }
     },
     "additionalProperties": false,

@@ -1,5 +1,5 @@
 {
-    "schema_version": "https://raw.githubusercontent.com/Infectious-Disease-Modeling-Hubs/schemas/main/v5.0.0/admin-schema.json",
+    "schema_version": "https://raw.githubusercontent.com/hubverse-org/schemas/main/v5.0.0/admin-schema.json",
     "name": "AI4Casting Hub",
     "maintainer": "AI4Casting Hub Admin",
     "contact": {
@@ -8,8 +8,8 @@
     },
     "repository": {
         "host": "github",
-        "owner": "AI4Casting Hub",
-        "repository": "pho-hospitalization-forecast"
+        "url": "https://github.com/ai4castinghub/hospitalization-forecast",
+        "name": "hospitalization-forecast"
     },
     "file_format": ["csv"],
     "timezone": "America/Toronto",
