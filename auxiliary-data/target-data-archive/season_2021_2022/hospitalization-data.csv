@@ -1,365 +1,365 @@
-"time","geo_value","geo_type","covid"
-2021-08-28,"Central","OH Region",98
-2021-08-28,"East","OH Region",17
-2021-08-28,"North East","OH Region",8
-2021-08-28,"North West","OH Region",3
-2021-08-28,"Ontario","Province",314
-2021-08-28,"Toronto","OH Region",71
-2021-08-28,"West","OH Region",132
-2021-09-04,"Central","OH Region",106
-2021-09-04,"East","OH Region",22
-2021-09-04,"North East","OH Region",6
-2021-09-04,"North West","OH Region",2
-2021-09-04,"Ontario","Province",334
-2021-09-04,"Toronto","OH Region",87
-2021-09-04,"West","OH Region",122
-2021-09-11,"Central","OH Region",94
-2021-09-11,"East","OH Region",25
-2021-09-11,"North East","OH Region",5
-2021-09-11,"North West","OH Region",1
-2021-09-11,"Ontario","Province",365
-2021-09-11,"Toronto","OH Region",109
-2021-09-11,"West","OH Region",141
-2021-09-18,"Central","OH Region",92
-2021-09-18,"East","OH Region",28
-2021-09-18,"North East","OH Region",3
-2021-09-18,"North West","OH Region",3
-2021-09-18,"Ontario","Province",331
-2021-09-18,"Toronto","OH Region",90
-2021-09-18,"West","OH Region",128
-2021-09-25,"Central","OH Region",85
-2021-09-25,"East","OH Region",35
-2021-09-25,"North East","OH Region",3
-2021-09-25,"North West","OH Region",2
-2021-09-25,"Ontario","Province",311
-2021-09-25,"Toronto","OH Region",73
-2021-09-25,"West","OH Region",128
-2021-10-02,"Central","OH Region",71
-2021-10-02,"East","OH Region",36
-2021-10-02,"North East","OH Region",3
-2021-10-02,"North West","OH Region",1
-2021-10-02,"Ontario","Province",285
-2021-10-02,"Toronto","OH Region",65
-2021-10-02,"West","OH Region",119
-2021-10-09,"Central","OH Region",70
-2021-10-09,"East","OH Region",35
-2021-10-09,"North East","OH Region",4
-2021-10-09,"North West","OH Region",2
-2021-10-09,"Ontario","Province",265
-2021-10-09,"Toronto","OH Region",67
-2021-10-09,"West","OH Region",101
-2021-10-16,"Central","OH Region",67
-2021-10-16,"East","OH Region",35
-2021-10-16,"North East","OH Region",7
-2021-10-16,"North West","OH Region",3
-2021-10-16,"Ontario","Province",250
-2021-10-16,"Toronto","OH Region",52
-2021-10-16,"West","OH Region",98
-2021-10-23,"Central","OH Region",68
-2021-10-23,"East","OH Region",49
-2021-10-23,"North East","OH Region",10
-2021-10-23,"North West","OH Region",2
-2021-10-23,"Ontario","Province",262
-2021-10-23,"Toronto","OH Region",46
-2021-10-23,"West","OH Region",101
-2021-10-30,"Central","OH Region",51
-2021-10-30,"East","OH Region",36
-2021-10-30,"North East","OH Region",12
-2021-10-30,"North West","OH Region",2
-2021-10-30,"Ontario","Province",222
-2021-10-30,"Toronto","OH Region",36
-2021-10-30,"West","OH Region",97
-2021-11-06,"Central","OH Region",49
-2021-11-06,"East","OH Region",37
-2021-11-06,"North East","OH Region",18
-2021-11-06,"North West","OH Region",2
-2021-11-06,"Ontario","Province",227
-2021-11-06,"Toronto","OH Region",35
-2021-11-06,"West","OH Region",100
-2021-11-13,"Central","OH Region",47
-2021-11-13,"East","OH Region",56
-2021-11-13,"North East","OH Region",32
-2021-11-13,"North West","OH Region",4
-2021-11-13,"Ontario","Province",267
-2021-11-13,"Toronto","OH Region",23
-2021-11-13,"West","OH Region",119
-2021-11-20,"Central","OH Region",56
-2021-11-20,"East","OH Region",48
-2021-11-20,"North East","OH Region",37
-2021-11-20,"North West","OH Region",1
-2021-11-20,"Ontario","Province",280
-2021-11-20,"Toronto","OH Region",25
-2021-11-20,"West","OH Region",126
-2021-11-27,"Central","OH Region",51
-2021-11-27,"East","OH Region",51
-2021-11-27,"North East","OH Region",39
-2021-11-27,"North West","OH Region",1
-2021-11-27,"Ontario","Province",271
-2021-11-27,"Toronto","OH Region",33
-2021-11-27,"West","OH Region",107
-2021-12-04,"Central","OH Region",56
-2021-12-04,"East","OH Region",60
-2021-12-04,"North East","OH Region",42
-2021-12-04,"North West","OH Region",1
-2021-12-04,"Ontario","Province",297
-2021-12-04,"Toronto","OH Region",35
-2021-12-04,"West","OH Region",115
-2021-12-11,"Central","OH Region",66
-2021-12-11,"East","OH Region",71
-2021-12-11,"North East","OH Region",37
-2021-12-11,"North West","OH Region",2
-2021-12-11,"Ontario","Province",333
-2021-12-11,"Toronto","OH Region",38
-2021-12-11,"West","OH Region",135
-2021-12-18,"Central","OH Region",62
-2021-12-18,"East","OH Region",65
-2021-12-18,"North East","OH Region",32
-2021-12-18,"North West","OH Region",7
-2021-12-18,"Ontario","Province",372
-2021-12-18,"Toronto","OH Region",45
-2021-12-18,"West","OH Region",176
-2021-12-25,"Central","OH Region",100
-2021-12-25,"East","OH Region",76
-2021-12-25,"North East","OH Region",25
-2021-12-25,"North West","OH Region",11
-2021-12-25,"Ontario","Province",503
-2021-12-25,"Toronto","OH Region",97
-2021-12-25,"West","OH Region",211
-2022-01-01,"Central","OH Region",266
-2022-01-01,"East","OH Region",167
-2022-01-01,"North East","OH Region",27
-2022-01-01,"North West","OH Region",20
-2022-01-01,"Ontario","Province",1164
-2022-01-01,"Toronto","OH Region",310
-2022-01-01,"West","OH Region",385
-2022-01-08,"Central","OH Region",592
-2022-01-08,"East","OH Region",393
-2022-01-08,"North East","OH Region",62
-2022-01-08,"North West","OH Region",22
-2022-01-08,"Ontario","Province",2492
-2022-01-08,"Toronto","OH Region",742
-2022-01-08,"West","OH Region",696
-2022-01-15,"Central","OH Region",823
-2022-01-15,"East","OH Region",608
-2022-01-15,"North East","OH Region",107
-2022-01-15,"North West","OH Region",32
-2022-01-15,"Ontario","Province",3721
-2022-01-15,"Toronto","OH Region",1169
-2022-01-15,"West","OH Region",994
-2022-01-22,"Central","OH Region",850
-2022-01-22,"East","OH Region",670
-2022-01-22,"North East","OH Region",139
-2022-01-22,"North West","OH Region",41
-2022-01-22,"Ontario","Province",4048
-2022-01-22,"Toronto","OH Region",1222
-2022-01-22,"West","OH Region",1137
-2022-01-29,"Central","OH Region",731
-2022-01-29,"East","OH Region",614
-2022-01-29,"North East","OH Region",145
-2022-01-29,"North West","OH Region",63
-2022-01-29,"Ontario","Province",3565
-2022-01-29,"Toronto","OH Region",994
-2022-01-29,"West","OH Region",1032
-2022-02-05,"Central","OH Region",525
-2022-02-05,"East","OH Region",474
-2022-02-05,"North East","OH Region",156
-2022-02-05,"North West","OH Region",67
-2022-02-05,"Ontario","Province",2674
-2022-02-05,"Toronto","OH Region",645
-2022-02-05,"West","OH Region",822
-2022-02-12,"Central","OH Region",324
-2022-02-12,"East","OH Region",330
-2022-02-12,"North East","OH Region",138
-2022-02-12,"North West","OH Region",62
-2022-02-12,"Ontario","Province",1828
-2022-02-12,"Toronto","OH Region",380
-2022-02-12,"West","OH Region",609
-2022-02-19,"Central","OH Region",217
-2022-02-19,"East","OH Region",255
-2022-02-19,"North East","OH Region",107
-2022-02-19,"North West","OH Region",59
-2022-02-19,"Ontario","Province",1296
-2022-02-19,"Toronto","OH Region",241
-2022-02-19,"West","OH Region",431
-2022-02-26,"Central","OH Region",162
-2022-02-26,"East","OH Region",204
-2022-02-26,"North East","OH Region",110
-2022-02-26,"North West","OH Region",56
-2022-02-26,"Ontario","Province",1026
-2022-02-26,"Toronto","OH Region",172
-2022-02-26,"West","OH Region",335
-2022-03-05,"Central","OH Region",130
-2022-03-05,"East","OH Region",145
-2022-03-05,"North East","OH Region",112
-2022-03-05,"North West","OH Region",47
-2022-03-05,"Ontario","Province",821
-2022-03-05,"Toronto","OH Region",136
-2022-03-05,"West","OH Region",264
-2022-03-12,"Central","OH Region",118
-2022-03-12,"East","OH Region",135
-2022-03-12,"North East","OH Region",101
-2022-03-12,"North West","OH Region",41
-2022-03-12,"Ontario","Province",725
-2022-03-12,"Toronto","OH Region",120
-2022-03-12,"West","OH Region",226
-2022-03-19,"Central","OH Region",103
-2022-03-19,"East","OH Region",128
-2022-03-19,"North East","OH Region",87
-2022-03-19,"North West","OH Region",34
-2022-03-19,"Ontario","Province",639
-2022-03-19,"Toronto","OH Region",90
-2022-03-19,"West","OH Region",208
-2022-03-26,"Central","OH Region",136
-2022-03-26,"East","OH Region",121
-2022-03-26,"North East","OH Region",74
-2022-03-26,"North West","OH Region",33
-2022-03-26,"Ontario","Province",684
-2022-03-26,"Toronto","OH Region",109
-2022-03-26,"West","OH Region",226
-2022-04-02,"Central","OH Region",174
-2022-04-02,"East","OH Region",155
-2022-04-02,"North East","OH Region",84
-2022-04-02,"North West","OH Region",32
-2022-04-02,"Ontario","Province",846
-2022-04-02,"Toronto","OH Region",136
-2022-04-02,"West","OH Region",281
-2022-04-09,"Central","OH Region",245
-2022-04-09,"East","OH Region",227
-2022-04-09,"North East","OH Region",111
-2022-04-09,"North West","OH Region",29
-2022-04-09,"Ontario","Province",1167
-2022-04-09,"Toronto","OH Region",231
-2022-04-09,"West","OH Region",341
-2022-04-16,"Central","OH Region",284
-2022-04-16,"East","OH Region",272
-2022-04-16,"North East","OH Region",126
-2022-04-16,"North West","OH Region",38
-2022-04-16,"Ontario","Province",1448
-2022-04-16,"Toronto","OH Region",295
-2022-04-16,"West","OH Region",447
-2022-04-23,"Central","OH Region",299
-2022-04-23,"East","OH Region",321
-2022-04-23,"North East","OH Region",133
-2022-04-23,"North West","OH Region",45
-2022-04-23,"Ontario","Province",1662
-2022-04-23,"Toronto","OH Region",345
-2022-04-23,"West","OH Region",536
-2022-04-30,"Central","OH Region",308
-2022-04-30,"East","OH Region",331
-2022-04-30,"North East","OH Region",150
-2022-04-30,"North West","OH Region",50
-2022-04-30,"Ontario","Province",1721
-2022-04-30,"Toronto","OH Region",364
-2022-04-30,"West","OH Region",532
-2022-05-07,"Central","OH Region",324
-2022-05-07,"East","OH Region",309
-2022-05-07,"North East","OH Region",149
-2022-05-07,"North West","OH Region",66
-2022-05-07,"Ontario","Province",1671
-2022-05-07,"Toronto","OH Region",338
-2022-05-07,"West","OH Region",496
-2022-05-14,"Central","OH Region",289
-2022-05-14,"East","OH Region",270
-2022-05-14,"North East","OH Region",123
-2022-05-14,"North West","OH Region",66
-2022-05-14,"Ontario","Province",1440
-2022-05-14,"Toronto","OH Region",282
-2022-05-14,"West","OH Region",423
-2022-05-21,"Central","OH Region",242
-2022-05-21,"East","OH Region",215
-2022-05-21,"North East","OH Region",91
-2022-05-21,"North West","OH Region",50
-2022-05-21,"Ontario","Province",1182
-2022-05-21,"Toronto","OH Region",257
-2022-05-21,"West","OH Region",340
-2022-05-28,"Central","OH Region",196
-2022-05-28,"East","OH Region",169
-2022-05-28,"North East","OH Region",77
-2022-05-28,"North West","OH Region",38
-2022-05-28,"Ontario","Province",945
-2022-05-28,"Toronto","OH Region",203
-2022-05-28,"West","OH Region",277
-2022-06-04,"Central","OH Region",156
-2022-06-04,"East","OH Region",120
-2022-06-04,"North East","OH Region",51
-2022-06-04,"North West","OH Region",26
-2022-06-04,"Ontario","Province",683
-2022-06-04,"Toronto","OH Region",165
-2022-06-04,"West","OH Region",179
-2022-06-11,"Central","OH Region",143
-2022-06-11,"East","OH Region",87
-2022-06-11,"North East","OH Region",58
-2022-06-11,"North West","OH Region",29
-2022-06-11,"Ontario","Province",540
-2022-06-11,"Toronto","OH Region",130
-2022-06-11,"West","OH Region",107
-2022-06-18,"Central","OH Region",127
-2022-06-18,"East","OH Region",65
-2022-06-18,"North East","OH Region",49
-2022-06-18,"North West","OH Region",30
-2022-06-18,"Ontario","Province",488
-2022-06-18,"Toronto","OH Region",132
-2022-06-18,"West","OH Region",98
-2022-06-25,"Central","OH Region",126
-2022-06-25,"East","OH Region",73
-2022-06-25,"North East","OH Region",45
-2022-06-25,"North West","OH Region",27
-2022-06-25,"Ontario","Province",499
-2022-06-25,"Toronto","OH Region",126
-2022-06-25,"West","OH Region",116
-2022-07-02,"Central","OH Region",162
-2022-07-02,"East","OH Region",93
-2022-07-02,"North East","OH Region",37
-2022-07-02,"North West","OH Region",22
-2022-07-02,"Ontario","Province",589
-2022-07-02,"Toronto","OH Region",148
-2022-07-02,"West","OH Region",142
-2022-07-09,"Central","OH Region",196
-2022-07-09,"East","OH Region",145
-2022-07-09,"North East","OH Region",46
-2022-07-09,"North West","OH Region",28
-2022-07-09,"Ontario","Province",773
-2022-07-09,"Toronto","OH Region",203
-2022-07-09,"West","OH Region",167
-2022-07-16,"Central","OH Region",279
-2022-07-16,"East","OH Region",217
-2022-07-16,"North East","OH Region",64
-2022-07-16,"North West","OH Region",26
-2022-07-16,"Ontario","Province",1055
-2022-07-16,"Toronto","OH Region",277
-2022-07-16,"West","OH Region",209
-2022-07-23,"Central","OH Region",347
-2022-07-23,"East","OH Region",319
-2022-07-23,"North East","OH Region",95
-2022-07-23,"North West","OH Region",25
-2022-07-23,"Ontario","Province",1443
-2022-07-23,"Toronto","OH Region",381
-2022-07-23,"West","OH Region",291
-2022-07-30,"Central","OH Region",325
-2022-07-30,"East","OH Region",307
-2022-07-30,"North East","OH Region",96
-2022-07-30,"North West","OH Region",32
-2022-07-30,"Ontario","Province",1505
-2022-07-30,"Toronto","OH Region",387
-2022-07-30,"West","OH Region",373
-2022-08-06,"Central","OH Region",295
-2022-08-06,"East","OH Region",279
-2022-08-06,"North East","OH Region",85
-2022-08-06,"North West","OH Region",50
-2022-08-06,"Ontario","Province",1419
-2022-08-06,"Toronto","OH Region",304
-2022-08-06,"West","OH Region",422
-2022-08-13,"Central","OH Region",250
-2022-08-13,"East","OH Region",275
-2022-08-13,"North East","OH Region",66
-2022-08-13,"North West","OH Region",40
-2022-08-13,"Ontario","Province",1354
-2022-08-13,"Toronto","OH Region",282
-2022-08-13,"West","OH Region",457
-2022-08-20,"Central","OH Region",253
-2022-08-20,"East","OH Region",257
-2022-08-20,"North East","OH Region",81
-2022-08-20,"North West","OH Region",40
-2022-08-20,"Ontario","Province",1340
-2022-08-20,"Toronto","OH Region",286
-2022-08-20,"West","OH Region",437
+time,geo_value,geo_type,covid
+2022-08-27,Central,OH Region,250
+2022-08-27,East,OH Region,234
+2022-08-27,North East,OH Region,104
+2022-08-27,North West,OH Region,34
+2022-08-27,Ontario,Province,1318
+2022-08-27,Toronto,OH Region,257
+2022-08-27,West,OH Region,427
+2022-08-20,Central,OH Region,251
+2022-08-20,East,OH Region,253
+2022-08-20,North East,OH Region,79
+2022-08-20,North West,OH Region,32
+2022-08-20,Ontario,Province,1339
+2022-08-20,Toronto,OH Region,285
+2022-08-20,West,OH Region,433
+2022-08-13,Central,OH Region,249
+2022-08-13,East,OH Region,270
+2022-08-13,North East,OH Region,63
+2022-08-13,North West,OH Region,29
+2022-08-13,Ontario,Province,1354
+2022-08-13,Toronto,OH Region,281
+2022-08-13,West,OH Region,449
+2022-08-06,Central,OH Region,293
+2022-08-06,East,OH Region,274
+2022-08-06,North East,OH Region,84
+2022-08-06,North West,OH Region,34
+2022-08-06,Ontario,Province,1419
+2022-08-06,Toronto,OH Region,304
+2022-08-06,West,OH Region,414
+2022-07-30,Central,OH Region,321
+2022-07-30,East,OH Region,304
+2022-07-30,North East,OH Region,91
+2022-07-30,North West,OH Region,21
+2022-07-30,Ontario,Province,1505
+2022-07-30,Toronto,OH Region,387
+2022-07-30,West,OH Region,369
+2022-07-23,Central,OH Region,344
+2022-07-23,East,OH Region,316
+2022-07-23,North East,OH Region,91
+2022-07-23,North West,OH Region,20
+2022-07-23,Ontario,Province,1443
+2022-07-23,Toronto,OH Region,381
+2022-07-23,West,OH Region,287
+2022-07-16,Central,OH Region,276
+2022-07-16,East,OH Region,212
+2022-07-16,North East,OH Region,61
+2022-07-16,North West,OH Region,19
+2022-07-16,Ontario,Province,1054
+2022-07-16,Toronto,OH Region,277
+2022-07-16,West,OH Region,201
+2022-07-09,Central,OH Region,196
+2022-07-09,East,OH Region,142
+2022-07-09,North East,OH Region,43
+2022-07-09,North West,OH Region,25
+2022-07-09,Ontario,Province,772
+2022-07-09,Toronto,OH Region,203
+2022-07-09,West,OH Region,161
+2022-07-02,Central,OH Region,160
+2022-07-02,East,OH Region,90
+2022-07-02,North East,OH Region,34
+2022-07-02,North West,OH Region,20
+2022-07-02,Ontario,Province,589
+2022-07-02,Toronto,OH Region,147
+2022-07-02,West,OH Region,135
+2022-06-25,Central,OH Region,125
+2022-06-25,East,OH Region,70
+2022-06-25,North East,OH Region,42
+2022-06-25,North West,OH Region,24
+2022-06-25,Ontario,Province,498
+2022-06-25,Toronto,OH Region,125
+2022-06-25,West,OH Region,112
+2022-06-18,Central,OH Region,123
+2022-06-18,East,OH Region,62
+2022-06-18,North East,OH Region,48
+2022-06-18,North West,OH Region,27
+2022-06-18,Ontario,Province,488
+2022-06-18,Toronto,OH Region,132
+2022-06-18,West,OH Region,96
+2022-06-11,Central,OH Region,142
+2022-06-11,East,OH Region,86
+2022-06-11,North East,OH Region,54
+2022-06-11,North West,OH Region,27
+2022-06-11,Ontario,Province,539
+2022-06-11,Toronto,OH Region,130
+2022-06-11,West,OH Region,101
+2022-06-04,Central,OH Region,153
+2022-06-04,East,OH Region,116
+2022-06-04,North East,OH Region,50
+2022-06-04,North West,OH Region,24
+2022-06-04,Ontario,Province,683
+2022-06-04,Toronto,OH Region,164
+2022-06-04,West,OH Region,173
+2022-05-28,Central,OH Region,195
+2022-05-28,East,OH Region,167
+2022-05-28,North East,OH Region,74
+2022-05-28,North West,OH Region,32
+2022-05-28,Ontario,Province,945
+2022-05-28,Toronto,OH Region,203
+2022-05-28,West,OH Region,272
+2022-05-21,Central,OH Region,241
+2022-05-21,East,OH Region,212
+2022-05-21,North East,OH Region,88
+2022-05-21,North West,OH Region,40
+2022-05-21,Ontario,Province,1182
+2022-05-21,Toronto,OH Region,256
+2022-05-21,West,OH Region,334
+2022-05-14,Central,OH Region,289
+2022-05-14,East,OH Region,266
+2022-05-14,North East,OH Region,121
+2022-05-14,North West,OH Region,54
+2022-05-14,Ontario,Province,1440
+2022-05-14,Toronto,OH Region,282
+2022-05-14,West,OH Region,418
+2022-05-07,Central,OH Region,321
+2022-05-07,East,OH Region,307
+2022-05-07,North East,OH Region,146
+2022-05-07,North West,OH Region,56
+2022-05-07,Ontario,Province,1671
+2022-05-07,Toronto,OH Region,337
+2022-05-07,West,OH Region,494
+2022-04-30,Central,OH Region,308
+2022-04-30,East,OH Region,329
+2022-04-30,North East,OH Region,146
+2022-04-30,North West,OH Region,34
+2022-04-30,Ontario,Province,1720
+2022-04-30,Toronto,OH Region,364
+2022-04-30,West,OH Region,527
+2022-04-23,Central,OH Region,295
+2022-04-23,East,OH Region,315
+2022-04-23,North East,OH Region,130
+2022-04-23,North West,OH Region,30
+2022-04-23,Ontario,Province,1662
+2022-04-23,Toronto,OH Region,345
+2022-04-23,West,OH Region,531
+2022-04-16,Central,OH Region,281
+2022-04-16,East,OH Region,269
+2022-04-16,North East,OH Region,123
+2022-04-16,North West,OH Region,31
+2022-04-16,Ontario,Province,1447
+2022-04-16,Toronto,OH Region,294
+2022-04-16,West,OH Region,444
+2022-04-09,Central,OH Region,244
+2022-04-09,East,OH Region,223
+2022-04-09,North East,OH Region,106
+2022-04-09,North West,OH Region,24
+2022-04-09,Ontario,Province,1166
+2022-04-09,Toronto,OH Region,230
+2022-04-09,West,OH Region,333
+2022-04-02,Central,OH Region,172
+2022-04-02,East,OH Region,152
+2022-04-02,North East,OH Region,81
+2022-04-02,North West,OH Region,24
+2022-04-02,Ontario,Province,846
+2022-04-02,Toronto,OH Region,136
+2022-04-02,West,OH Region,275
+2022-03-26,Central,OH Region,134
+2022-03-26,East,OH Region,122
+2022-03-26,North East,OH Region,71
+2022-03-26,North West,OH Region,27
+2022-03-26,Ontario,Province,683
+2022-03-26,Toronto,OH Region,108
+2022-03-26,West,OH Region,222
+2022-03-19,Central,OH Region,102
+2022-03-19,East,OH Region,124
+2022-03-19,North East,OH Region,86
+2022-03-19,North West,OH Region,27
+2022-03-19,Ontario,Province,639
+2022-03-19,Toronto,OH Region,90
+2022-03-19,West,OH Region,206
+2022-03-12,Central,OH Region,116
+2022-03-12,East,OH Region,131
+2022-03-12,North East,OH Region,98
+2022-03-12,North West,OH Region,34
+2022-03-12,Ontario,Province,725
+2022-03-12,Toronto,OH Region,119
+2022-03-12,West,OH Region,219
+2022-03-05,Central,OH Region,128
+2022-03-05,East,OH Region,142
+2022-03-05,North East,OH Region,110
+2022-03-05,North West,OH Region,36
+2022-03-05,Ontario,Province,821
+2022-03-05,Toronto,OH Region,136
+2022-03-05,West,OH Region,259
+2022-02-26,Central,OH Region,159
+2022-02-26,East,OH Region,200
+2022-02-26,North East,OH Region,108
+2022-02-26,North West,OH Region,45
+2022-02-26,Ontario,Province,1025
+2022-02-26,Toronto,OH Region,171
+2022-02-26,West,OH Region,332
+2022-02-19,Central,OH Region,216
+2022-02-19,East,OH Region,251
+2022-02-19,North East,OH Region,105
+2022-02-19,North West,OH Region,47
+2022-02-19,Ontario,Province,1296
+2022-02-19,Toronto,OH Region,241
+2022-02-19,West,OH Region,427
+2022-02-12,Central,OH Region,321
+2022-02-12,East,OH Region,325
+2022-02-12,North East,OH Region,134
+2022-02-12,North West,OH Region,50
+2022-02-12,Ontario,Province,1827
+2022-02-12,Toronto,OH Region,380
+2022-02-12,West,OH Region,603
+2022-02-05,Central,OH Region,523
+2022-02-05,East,OH Region,471
+2022-02-05,North East,OH Region,154
+2022-02-05,North West,OH Region,54
+2022-02-05,Ontario,Province,2674
+2022-02-05,Toronto,OH Region,644
+2022-02-05,West,OH Region,815
+2022-01-29,Central,OH Region,730
+2022-01-29,East,OH Region,609
+2022-01-29,North East,OH Region,144
+2022-01-29,North West,OH Region,50
+2022-01-29,Ontario,Province,3565
+2022-01-29,Toronto,OH Region,994
+2022-01-29,West,OH Region,1025
+2022-01-22,Central,OH Region,850
+2022-01-22,East,OH Region,667
+2022-01-22,North East,OH Region,138
+2022-01-22,North West,OH Region,33
+2022-01-22,Ontario,Province,4048
+2022-01-22,Toronto,OH Region,1221
+2022-01-22,West,OH Region,1133
+2022-01-15,Central,OH Region,820
+2022-01-15,East,OH Region,605
+2022-01-15,North East,OH Region,106
+2022-01-15,North West,OH Region,25
+2022-01-15,Ontario,Province,3721
+2022-01-15,Toronto,OH Region,1169
+2022-01-15,West,OH Region,991
+2022-01-08,Central,OH Region,591
+2022-01-08,East,OH Region,389
+2022-01-08,North East,OH Region,58
+2022-01-08,North West,OH Region,16
+2022-01-08,Ontario,Province,2491
+2022-01-08,Toronto,OH Region,742
+2022-01-08,West,OH Region,691
+2021-12-25,Central,OH Region,98
+2021-12-25,East,OH Region,71
+2021-12-25,North East,OH Region,21
+2021-12-25,North West,OH Region,6
+2021-12-25,Ontario,Province,503
+2021-12-25,Toronto,OH Region,97
+2021-12-25,West,OH Region,203
+2021-12-18,Central,OH Region,61
+2021-12-18,East,OH Region,63
+2021-12-18,North East,OH Region,28
+2021-12-18,North West,OH Region,4
+2021-12-18,Ontario,Province,372
+2021-12-18,Toronto,OH Region,44
+2021-12-18,West,OH Region,170
+2021-12-11,Central,OH Region,65
+2021-12-11,East,OH Region,67
+2021-12-11,North East,OH Region,34
+2021-12-11,North West,OH Region,2
+2021-12-11,Ontario,Province,333
+2021-12-11,Toronto,OH Region,37
+2021-12-11,West,OH Region,127
+2021-12-04,Central,OH Region,54
+2021-12-04,East,OH Region,58
+2021-12-04,North East,OH Region,39
+2021-12-04,North West,OH Region,1
+2021-12-04,Ontario,Province,296
+2021-12-04,Toronto,OH Region,35
+2021-12-04,West,OH Region,112
+2021-11-27,Central,OH Region,49
+2021-11-27,East,OH Region,49
+2021-11-27,North East,OH Region,36
+2021-11-27,North West,OH Region,0
+2021-11-27,Ontario,Province,270
+2021-11-27,Toronto,OH Region,32
+2021-11-27,West,OH Region,103
+2021-11-20,Central,OH Region,53
+2021-11-20,East,OH Region,46
+2021-11-20,North East,OH Region,36
+2021-11-20,North West,OH Region,1
+2021-11-20,Ontario,Province,279
+2021-11-20,Toronto,OH Region,24
+2021-11-20,West,OH Region,119
+2021-11-13,Central,OH Region,47
+2021-11-13,East,OH Region,53
+2021-11-13,North East,OH Region,28
+2021-11-13,North West,OH Region,3
+2021-11-13,Ontario,Province,267
+2021-11-13,Toronto,OH Region,22
+2021-11-13,West,OH Region,113
+2021-11-06,Central,OH Region,47
+2021-11-06,East,OH Region,32
+2021-11-06,North East,OH Region,17
+2021-11-06,North West,OH Region,1
+2021-11-06,Ontario,Province,226
+2021-11-06,Toronto,OH Region,35
+2021-11-06,West,OH Region,94
+2021-10-30,Central,OH Region,51
+2021-10-30,East,OH Region,32
+2021-10-30,North East,OH Region,10
+2021-10-30,North West,OH Region,2
+2021-10-30,Ontario,Province,222
+2021-10-30,Toronto,OH Region,35
+2021-10-30,West,OH Region,91
+2021-10-23,Central,OH Region,66
+2021-10-23,East,OH Region,45
+2021-10-23,North East,OH Region,8
+2021-10-23,North West,OH Region,0
+2021-10-23,Ontario,Province,262
+2021-10-23,Toronto,OH Region,45
+2021-10-23,West,OH Region,99
+2021-10-16,Central,OH Region,66
+2021-10-16,East,OH Region,31
+2021-10-16,North East,OH Region,6
+2021-10-16,North West,OH Region,2
+2021-10-16,Ontario,Province,250
+2021-10-16,Toronto,OH Region,51
+2021-10-16,West,OH Region,94
+2021-10-09,Central,OH Region,68
+2021-10-09,East,OH Region,32
+2021-10-09,North East,OH Region,3
+2021-10-09,North West,OH Region,1
+2021-10-09,Ontario,Province,265
+2021-10-09,Toronto,OH Region,67
+2021-10-09,West,OH Region,95
+2021-10-02,Central,OH Region,69
+2021-10-02,East,OH Region,33
+2021-10-02,North East,OH Region,3
+2021-10-02,North West,OH Region,1
+2021-10-02,Ontario,Province,285
+2021-10-02,Toronto,OH Region,65
+2021-10-02,West,OH Region,115
+2021-09-25,Central,OH Region,81
+2021-09-25,East,OH Region,31
+2021-09-25,North East,OH Region,0
+2021-09-25,North West,OH Region,0
+2021-09-25,Ontario,Province,310
+2021-09-25,Toronto,OH Region,72
+2021-09-25,West,OH Region,122
+2021-09-18,Central,OH Region,89
+2021-09-18,East,OH Region,23
+2021-09-18,North East,OH Region,1
+2021-09-18,North West,OH Region,1
+2021-09-18,Ontario,Province,330
+2021-09-18,Toronto,OH Region,90
+2021-09-18,West,OH Region,125
+2021-09-11,Central,OH Region,90
+2021-09-11,East,OH Region,25
+2021-09-11,North East,OH Region,4
+2021-09-11,North West,OH Region,1
+2021-09-11,Ontario,Province,365
+2021-09-11,Toronto,OH Region,109
+2021-09-11,West,OH Region,138
+2021-09-04,Central,OH Region,104
+2021-09-04,East,OH Region,18
+2021-09-04,North East,OH Region,4
+2021-09-04,North West,OH Region,1
+2021-09-04,Ontario,Province,334
+2021-09-04,Toronto,OH Region,86
+2021-09-04,West,OH Region,121
+2021-01-02,Central,OH Region,378
+2021-01-02,East,OH Region,68
+2021-01-02,North East,OH Region,4
+2021-01-02,North West,OH Region,2
+2021-01-02,Ontario,Province,1278
+2021-01-02,Toronto,OH Region,461
+2021-01-02,West,OH Region,365
