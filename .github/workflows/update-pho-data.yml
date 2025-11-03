@@ -27,7 +27,7 @@ jobs:
           
       - name: Install R Dependencies
         run: |
-          install.packages(c("dplyr", "lubridate", "readxl", "tidyr"))
+          install.packages(c("dplyr", "lubridate", "readxl", "tidyr", "readr"))
         shell: Rscript {0}
         
       - name: Generate target CSV files
