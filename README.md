@@ -21,7 +21,7 @@ Predictions will be compared against confirmed hospital bed occupancy data relea
 ### Key Dates
 * Challenge Start Date: November 20, 2025
 * Challenge End Date: May 16, 2026
-* Weekly Submission Deadline: Saturdays at 11 PM Eastern Standard Time (referred to as the "Forecast Due Date"). Submissions should cover the reference week ending on the Saturday following the Forecast Due Date.
+* Weekly Submission Deadline: Saturdays at 11 PM Eastern Standard Time (referred to as the "Forecast Due Date"). Submissions should cover the reference week ending on the Saturday i.e. the Forecast Due Date.
 
 The reference week is defined by the epidemiological week (EW) running from Sunday to Saturday. Submissions are expected to provide forecasts for the end of the reference week and the subsequent three weeks. Teams are encouraged to submit predictions for all forecast horizons, but it is not mandatory to cover every time period or location. Similarly, while teams are encouraged to forecast for all three targets, submitting predictions for all of them is not required. Predictions for the previous week's hospital bed occupancy (horizon -1) are optional and will not be scored in summary evaluations but may assist with calibration.
 
