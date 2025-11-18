@@ -1,6 +1,10 @@
 name: Update Target Data
 
 on:
+  push:
+    paths:
+      - 'auxiliary-data/**'
+
   workflow_dispatch:  # Allows manual triggering
   #schedule:
    # - cron: '0 21 * * THU'  # Runs every Thursday at 21:00 UTC
@@ -27,7 +31,7 @@ jobs:
           
       - name: Install R Dependencies
         run: |
-          install.packages(c("dplyr", "lubridate", "readxl", "tidyr"))
+          install.packages(c("dplyr", "lubridate", "readxl", "tidyr", "readr"))
         shell: Rscript {0}
         
       - name: Generate target CSV files
