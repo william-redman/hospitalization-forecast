@@ -18,8 +18,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        #with:
-          #fetch-depth: 0  # Fetch the entire Git history to ensure all commits are available
+        with:
+          fetch-depth: 0  # Fetch the entire Git history to ensure all commits are available
 
       # Set up R environment
       - uses: r-lib/actions/setup-r@v2
