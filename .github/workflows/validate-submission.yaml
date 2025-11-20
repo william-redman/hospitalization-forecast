@@ -11,7 +11,7 @@ on:
 
 jobs:
   validate_and_check:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04  # R not supported for ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,28 +39,28 @@ jobs:
             any::hubValidations
             any::sessioninfo
 
-      # Get base and head SHAs
-      - name: Get base and head commits
-        id: commits
-        run: |
-          echo "BASE_COMMIT=${{ github.event.pull_request.base.sha }}" >> $GITHUB_ENV
-          echo "HEAD_COMMIT=${{ github.event.pull_request.head.sha }}" >> $GITHUB_ENV
+      # ---------- Git diff + path checks ----------
 
-      #  make sure those commits exist locally
-      - name: Fetch base and head commits
+      - name: Fetch base branch
+        if: github.event_name == 'pull_request'
         run: |
-          git fetch origin $BASE_COMMIT || true
-          git fetch origin $HEAD_COMMIT || true
+          # github.base_ref is the name of the base branch for the PR (e.g. "main")
+          git fetch origin ${{ github.base_ref }}
 
       - name: Run git diff to find changed files
+        if: github.event_name == 'pull_request'
         run: |
-          git diff --name-only "$BASE_COMMIT" "$HEAD_COMMIT" > changed_files.txt
+          # Three-dot syntax compares HEAD with the merge-base of base_ref and HEAD
+          git diff --name-only origin/${{ github.base_ref }}...HEAD > changed_files.txt
           echo "Changed files:"
           cat changed_files.txt
 
       - name: Check if changes are outside allowed directories
+        if: github.event_name == 'pull_request'
         run: |
+          # Filter out files not in the allowed directories
           UNALLOWED_CHANGES=$(grep -vE '^model-metadata/|^model-output/' changed_files.txt || true)
+
           if [[ -n "$UNALLOWED_CHANGES" ]]; then
             echo "Error: Changes outside allowed directories detected:"
             echo "$UNALLOWED_CHANGES"
@@ -69,7 +69,10 @@ jobs:
             echo "All changes are within allowed directories."
           fi
 
+      # ---------- validations  ----------
+
       - name: Run validations
+        if: github.event_name == 'pull_request'
         env:
           PR_NUMBER: ${{ github.event.number }}
         run: |
