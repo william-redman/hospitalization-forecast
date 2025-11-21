@@ -1,11 +1,18 @@
 time,geo_value,geo_type,covid,flu,rsv
-2025-11-08,Central,OH Region,45,13,2
-2025-11-08,East,OH Region,16,1,2
-2025-11-08,North East,OH Region,8,0,2
+2025-11-15,Central,OH Region,47,17,4
+2025-11-15,East,OH Region,29,3,6
+2025-11-15,North East,OH Region,15,4,1
+2025-11-15,North West,OH Region,1,0,0
+2025-11-15,Ontario,Province,183,64,18
+2025-11-15,Toronto,OH Region,44,12,5
+2025-11-15,West,OH Region,46,26,3
+2025-11-08,Central,OH Region,46,14,2
+2025-11-08,East,OH Region,17,1,2
+2025-11-08,North East,OH Region,9,0,2
 2025-11-08,North West,OH Region,2,1,0
-2025-11-08,Ontario,Province,158,37,10
+2025-11-08,Ontario,Province,166,38,10
 2025-11-08,Toronto,OH Region,44,9,1
-2025-11-08,West,OH Region,46,11,2
+2025-11-08,West,OH Region,52,11,2
 2025-11-01,Central,OH Region,29,6,0
 2025-11-01,East,OH Region,12,1,2
 2025-11-01,North East,OH Region,13,0,1
