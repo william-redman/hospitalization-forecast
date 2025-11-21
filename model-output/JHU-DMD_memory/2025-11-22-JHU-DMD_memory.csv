@@ -1,4 +1,4 @@
-reference_date,target_end_date,horizon,location,target,output_type,output_type_id,value
+reference_date,target,horizon,target_end_date,location,output_type,output_type_id,value
 2025-11-22,wk inc covid hosp,-1,2025-11-15,Central,quantile,0.025,19
 2025-11-22,wk inc covid hosp,-1,2025-11-15,Central,quantile,0.1,31
 2025-11-22,wk inc covid hosp,-1,2025-11-15,Central,quantile,0.25,39
