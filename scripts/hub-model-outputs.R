@@ -85,6 +85,9 @@ colnames(model_op)[colnames(model_op) == "model"] <- "model_id"
 
 # Filter and create ensemble
 ref_date <- lubridate::ceiling_date(Sys.Date(), "week") - days(1) - weeks(1)
+
+ref_date
+
 model_outputs <- model_op |>
   filter(reference_date == ref_date) |>
   filter(model_id != 'AI4Casting_Hub-Quantile_Baseline') |>
@@ -98,6 +101,8 @@ ensemble <- simple_ensemble(model_outputs, agg_fun = mean, model_id = 'AI4Castin
 # Save ensemble
 ensemble_output_dir <- "model-output/AI4Casting_Hub-Ensemble_v1"
 ensemble_file_name <- paste0(as.character(ref_date), "-AI4Casting_Hub-Ensemble_v1.csv")
+ensemble_output_dir
+ensemble_file_name
 ensemble_file_path <- create_file_path(ensemble_output_dir, ensemble_file_name)
 
 ensemble <- ensemble |>
