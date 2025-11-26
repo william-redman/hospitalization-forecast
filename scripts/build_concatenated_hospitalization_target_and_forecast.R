@@ -111,6 +111,8 @@ if (length(all_csvs) == 0) {
   }
 }
 
+all_model_data
+
 if (nrow(all_model_data) > 0) {
   write_csv(all_model_data, "auxiliary-data/concatenated_model_output.csv")
   message("Wrote: auxiliary-data/concatenated_model_output.csv")

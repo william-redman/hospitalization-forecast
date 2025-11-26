@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 model_data = pd.read_csv('auxiliary-data/concatenated_model_output.csv')
 
 # Load the truth data
-truth_data = pd.read_csv('target-data/season_2024_2025/hospitalization-data.csv')
+truth_data = pd.read_csv('target-data/season_2025_2026/hospitalization-data.csv')
 truth_data['time'] = pd.to_datetime(truth_data['time'])
 
 # Ensure model data types are correct
