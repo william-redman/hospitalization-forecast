@@ -4,7 +4,7 @@ library(readr)
 library(MMWRweek)
 
 
-df_hhs <- read_csv('hospitalization/target-data/season_2024_2025/hospitalization-data.csv') %>%
+df_hhs <- read_csv('hospitalization/target-data/season_2025_2026/hospitalization-data.csv') %>%
   mutate(date = as_date(time, format = "%d-%m-%Y"),
          mmwr_week = MMWRweek(date)$MMWRweek) %>%
   arrange(date)
