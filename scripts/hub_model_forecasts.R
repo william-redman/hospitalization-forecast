@@ -7,7 +7,9 @@ library(parsnip)
 library(hubValidations)
 
 # fixed forecast date used for all models
-forecast_date <- lubridate::ceiling_date(Sys.Date(), "week") - days(1)
+#forecast_date <- lubridate::ceiling_date(Sys.Date(), "week") - days(1)
+forecast_date <- as.Date("2025-11-29")
+
 print(forecast_date)
 
 # shared quantiles and ahead values for all forecasters
