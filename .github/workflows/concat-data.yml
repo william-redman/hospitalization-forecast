@@ -10,7 +10,7 @@ on:
 
 jobs:
   run-r-script:
-    runs-on: self-hosted #ubuntu-22.04
+    runs-on: ubuntu-22.04
     env:
       GITHUB_PAT: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
