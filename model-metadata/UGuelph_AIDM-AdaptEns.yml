@@ -1,0 +1,15 @@
+team_name: UGuelph-AIDM
+model_name: AdaptiveEnsemble
+model_abbr: AdaptEns
+team_model_designation: UGuelph_AIDM-AdaptEns
+methods: Adaptive ensemble combining exponential growth detection with gradient boosting
+methods_long: This model employs an adaptive ensemble strategy that dynamically adjusts
+  model weights based on detected growth regimes. For explosive growth patterns, it
+  emphasizes exponential curve fitting with proper uncertainty quantification. For
+  stable patterns, it relies more on gradient boosting machines with lag features
+  and rolling statistics. The ensemble automatically adapts to changing epidemic dynamics.
+data_inputs: Hospital Bed Occupancy data from Public Health Ontario
+license: CC-BY-4.0
+designated_model: true
+ensemble_of_models: true
+ensemble_of_hub_models: false
