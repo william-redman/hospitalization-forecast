@@ -1,11 +1,18 @@
 time,geo_value,geo_type,covid,flu,rsv
-2026-03-07,Central,OH Region,46,20,34
-2026-03-07,East,OH Region,73,7,44
-2026-03-07,North East,OH Region,10,4,8
+2026-03-14,Central,OH Region,50,14,35
+2026-03-14,East,OH Region,62,10,29
+2026-03-14,North East,OH Region,13,1,9
+2026-03-14,North West,OH Region,1,1,3
+2026-03-14,Ontario,Province,273,52,175
+2026-03-14,Toronto,OH Region,59,18,58
+2026-03-14,West,OH Region,85,7,41
+2026-03-07,Central,OH Region,46,20,35
+2026-03-07,East,OH Region,74,8,46
+2026-03-07,North East,OH Region,11,4,8
 2026-03-07,North West,OH Region,3,0,2
-2026-03-07,Ontario,Province,293,61,208
+2026-03-07,Ontario,Province,296,62,212
 2026-03-07,Toronto,OH Region,66,20,62
-2026-03-07,West,OH Region,93,9,57
+2026-03-07,West,OH Region,95,9,57
 2026-02-28,Central,OH Region,51,14,38
 2026-02-28,East,OH Region,84,13,42
 2026-02-28,North East,OH Region,17,2,10
@@ -27,11 +34,11 @@ time,geo_value,geo_type,covid,flu,rsv
 2026-02-14,Ontario,Province,335,71,198
 2026-02-14,Toronto,OH Region,67,27,58
 2026-02-14,West,OH Region,105,11,55
-2026-02-07,Central,OH Region,50,17,31
-2026-02-07,East,OH Region,56,21,44
+2026-02-07,Central,OH Region,50,17,32
+2026-02-07,East,OH Region,57,21,44
 2026-02-07,North East,OH Region,27,2,6
 2026-02-07,North West,OH Region,2,2,1
-2026-02-07,Ontario,Province,304,85,184
+2026-02-07,Ontario,Province,305,85,184
 2026-02-07,Toronto,OH Region,64,30,58
 2026-02-07,West,OH Region,101,12,42
 2026-01-31,Central,OH Region,52,25,37
