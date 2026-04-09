@@ -18,7 +18,7 @@ model_names <- list.dirs(model_output_dir, full.names = FALSE, recursive = FALSE
 print(model_names)
 
 current_reference_date <- floor_date(Sys.Date(), unit = "week") + days(6)
-start_reference_date <- as_date("2024-10-19")
+start_reference_date <- as_date("2025-11-22")
 all_ref_dates <- seq(start_reference_date, current_reference_date, by = "7 days")
 
 # set all target and locations
@@ -178,8 +178,8 @@ if (length(WIS_all) == 0 || is.null(WIS_all) || nrow(WIS_all) == 0) {
            AE = ifelse(AE < 0, NA, round(AE, 3)),
            MSE = ifelse(MSE < 0, NA, round(MSE, 3)))
   
-  write_csv(WIS_average, "hospitalization-output/WIS_average.csv")
-  write_csv(WIS_all, "hospitalization-output/all_hospitalization_scores.csv")
+  write_csv(WIS_average, "hospitalization-output/WIS_average_2025-26.csv")
+  write_csv(WIS_all, "hospitalization-output/all_hospitalization_scores_2025-26.csv")
 }
 
 # Aggregate model output with additional checks
@@ -217,6 +217,6 @@ cat("Combining model data...\n")
 concatenated_data <- bind_rows(all_model_data) %>%
   filter(!is.na(reference_date), !is.na(target_end_date))
 
-write_csv(concatenated_data, "hospitalization-output/concatenated_model_output.csv")
+write_csv(concatenated_data, "hospitalization-output/concatenated_model_output_2025-26.csv")
 
 cat("Script completed successfully.\n")
